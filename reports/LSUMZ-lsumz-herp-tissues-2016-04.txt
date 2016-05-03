@@ -1,0 +1,199 @@
+Report for Institution Code LSUMZ, Resource lsumz-herp-tissues
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 109
+Number of records retrieved in searches: 747
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: United Arab Emirates ; Times: 1
+	Country: South Africa ; Times: 3
+	Country: United States ; Times: 86
+	Country: Denmark ; Times: 3
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 9
+	Date: 2016-04-28 ; Times: 4
+	Date: 2016-04-07 ; Times: 1
+	Date: 2016-04-06 ; Times: 10
+	Date: 2016-04-05 ; Times: 3
+	Date: 2016-04-04 ; Times: 7
+	Date: 2016-04-21 ; Times: 3
+	Date: 2016-04-20 ; Times: 4
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-22 ; Times: 3
+	Date: 2016-04-25 ; Times: 4
+	Date: 2016-04-24 ; Times: 2
+	Date: 2016-04-27 ; Times: 9
+	Date: 2016-04-26 ; Times: 1
+	Date: 2016-04-08 ; Times: 1
+	Date: 2016-04-18 ; Times: 20
+	Date: 2016-04-19 ; Times: 2
+	Date: 2016-04-14 ; Times: 6
+	Date: 2016-04-15 ; Times: 6
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-12 ; Times: 3
+	Date: 2016-04-13 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Regina septemvittata tissue:1" ; Times: 1
+	Query: "crocodylus novaeguineae" ; Times: 3
+	Query: "Telescopus fallax" ; Times: 1
+	Query: "Elaphe taeniura" ; Times: 2
+	Query: "Sistrurus ravus" ; Times: 1
+	Query: "paleosuchus trigonatus" ; Times: 1
+	Query: "osteocephalus taurinus tissue:1" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 1
+	Query: "16438 tissue:1" ; Times: 1
+	Query: "imantodes lentiferus" ; Times: 1
+	Query: "specificepithet:novaeguineae genus:Crocodylus" ; Times: 3
+	Query: "LSU 2577" ; Times: 1
+	Query: "sceloporus undulatus ALABAMA" ; Times: 1
+	Query: "trachycephalus tissue:1" ; Times: 2
+	Query: "12470 tissue:1" ; Times: 2
+	Query: "ptychadena tellinii" ; Times: 1
+	Query: "Macrochelys temmincki" ; Times: 1
+	Query: "genus:Hyalinobatrachium tissue:1" ; Times: 1
+	Query: "thamnophis rufipunctatus tissue:1" ; Times: 1
+	Query: "Crotalus mitchellii tissue:1" ; Times: 1
+	Query: "megophrys montana tissue:1" ; Times: 2
+	Query: "geoemyda spengleri" ; Times: 2
+	Query: "Arthrosaura reticulata" ; Times: 1
+	Query: "osteocephalus leprieurii tissue:1" ; Times: 1
+	Query: "osteopilus tissue:1" ; Times: 3
+	Query: "reptilia country:&#34;Congo&#34; tissue:1" ; Times: 1
+	Query: "specificepithet:cherriei genus:Sphenomorphus tissue:1" ; Times: 1
+	Query: "Veracruz Reptilia institutioncode:LSUMZ" ; Times: 1
+	Query: "ficimia streckeri" ; Times: 2
+	Query: "Sphenomorphus Cherriei genus:Sphenomorphus tissue:1" ; Times: 1
+	Query: "genus:Clonophis class:Reptilia stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:serratus genus:plethodon tissue:1" ; Times: 1
+	Query: "Chrysemys picta tissue:1" ; Times: 1
+	Query: "bothriechis schlegelii country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "Stegonotus modestus" ; Times: 5
+	Query: "Hemorrhois ravergieri" ; Times: 1
+	Query: "crocodylus intermedius" ; Times: 5
+	Query: "Sphenomorphus Cherriei genus:sphenomorphus tissue:1" ; Times: 1
+	Query: "ptychadena bibroni" ; Times: 2
+	Query: "genus:Atractus tissue:1" ; Times: 3
+	Query: "senticolis stateprovince:&#34;arizona&#34;" ; Times: 3
+	Query: "adelophis" ; Times: 1
+	Query: "Adelophis foxi" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 1
+	Query: "specificepithet:bivirgata genus:Calliophis" ; Times: 2
+	Query: "crotaphytus reticulatus" ; Times: 2
+	Query: "specificepithet:crucifer stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:intermedia genus:siren tissue:1" ; Times: 1
+	Query: "Macrelaps" ; Times: 1
+	Query: "Carphophis amoenus tissue:1" ; Times: 2
+	Query: "catalognumber:18100" ; Times: 1
+	Query: "type:specimen specificepithet:novaeguineae genus:crocodylus" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (triaspis)" ; Times: 1
+	Query: "osteocephalus cabrerai tissue:1" ; Times: 1
+	Query: "Stegonotus cucullatus" ; Times: 1
+	Query: "genus:Kassina tissue:1" ; Times: 1
+	Query: "catalognumber:19404" ; Times: 1
+	Query: "Carphophis tissue:1" ; Times: 2
+	Query: "osteocephalus tissue:1" ; Times: 2
+	Query: "Polystictus tissue:1" ; Times: 1
+	Query: "type:specimen genus:iguana tissue:1" ; Times: 1
+	Query: "genus:kinixys tissue:1" ; Times: 6
+	Query: "paleosuchus palpebrosus" ; Times: 1
+	Query: "boiga Trigonata" ; Times: 2
+	Query: "osteopilus septentrionalis tissue:1" ; Times: 1
+	Query: "clonophis" ; Times: 1
+	Query: "Tropidophiidae and cuba" ; Times: 1
+	Query: "genus:exiliboa" ; Times: 1
+	Query: "genus:Pantherophis stateprovince:&#34;Colorado&#34;" ; Times: 2
+	Query: "genus:Eurycea specificepithet:aquatica" ; Times: 1
+	Query: "regina septemvittata tissue:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 1312 download events in this period)
+Total number of records downloaded: 6620
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 4
+	Country: United States ; Times: 25
+	Country: United Arab Emirates ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-22 ; Times: 1
+	Date: 2016-04-12 ; Times: 3
+	Date: 2016-04-13 ; Times: 2
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-03 ; Times: 1
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-06 ; Times: 3
+	Date: 2016-04-05 ; Times: 4
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-14 ; Times: 2
+	Date: 2016-04-15 ; Times: 4
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-08 ; Times: 6
+	Date: 2016-04-27 ; Times: 3
+	Date: 2016-04-26 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "kinixys" ; Times: 1
+	Query: "reptilia country:&#34;Congo&#34; tissue:1" ; Times: 1
+	Query: "kassina" ; Times: 1
+	Query: "Gonocephalus" ; Times: 1
+	Query: "paleosuchus trigonatus" ; Times: 1
+	Query: "Bothrops asper" ; Times: 2
+	Query: "Sistrurus" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "ptychadena tellinii" ; Times: 1
+	Query: "Rana catesbeiana tissue:1" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "ptychadena mascareniensis" ; Times: 1
+	Query: "Tropidoclonion lineatum" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "ctenotus" ; Times: 1
+	Query: "Carphophis amoenus tissue:1" ; Times: 1
+	Query: "genus:Smilisca specificepithet:baudinii" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "cyrtodactylus" ; Times: 1
+	Query: "ptychadena oxyrhynchus" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "ptychadena bibroni" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:mystaceus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "genus:Kassina tissue:1" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "genus:Ambystoma opacum" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "genus:boiga tissue:1" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "rana tarahumarae" ; Times: 2
+	Query: "urosaurus graciosus" ; Times: 1
+	Query: "Rhyacotriton kezeri" ; Times: 1
+
+
+End of report.
