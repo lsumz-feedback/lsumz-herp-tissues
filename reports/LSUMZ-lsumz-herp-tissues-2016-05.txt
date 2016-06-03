@@ -1,0 +1,150 @@
+Report for Institution Code LSUMZ, Resource lsumz-herp-tissues
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 60
+Number of records retrieved in searches: 665
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 49
+	Country: Unknown ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-09 ; Times: 6
+	Date: 2016-05-03 ; Times: 3
+	Date: 2016-05-19 ; Times: 4
+	Date: 2016-05-13 ; Times: 3
+	Date: 2016-05-02 ; Times: 2
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-04 ; Times: 2
+	Date: 2016-05-12 ; Times: 4
+	Date: 2016-05-11 ; Times: 1
+	Date: 2016-05-07 ; Times: 1
+	Date: 2016-05-26 ; Times: 2
+	Date: 2016-05-24 ; Times: 3
+	Date: 2016-05-25 ; Times: 2
+	Date: 2016-05-31 ; Times: 15
+	Date: 2016-05-30 ; Times: 2
+	Date: 2016-05-20 ; Times: 3
+	Date: 2016-05-21 ; Times: 1
+	Date: 2016-05-15 ; Times: 2
+	Date: 2016-05-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "LSUMZ 10455" ; Times: 1
+	Query: "type:specimen specificepithet:novaeguineae genus:Crocodylus" ; Times: 1
+	Query: "Pantherophis slowinskii" ; Times: 2
+	Query: "class:reptilia stateprovince:&#34;Mbeya&#34; country:&#34;Tanzania&#34; tissue:1" ; Times: 1
+	Query: "Crocodylus siamensis" ; Times: 1
+	Query: "genus:clelia tissue:1" ; Times: 2
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;Rukwa&#34; country:&#34;Tanzania&#34; tissue:1" ; Times: 1
+	Query: "genus:pseudoboa tissue:1" ; Times: 2
+	Query: "Stegonotus tissue:1" ; Times: 4
+	Query: "specificepithet:gigas genus:Hydrodynastes" ; Times: 1
+	Query: "Crotaphytus Nebrius" ; Times: 1
+	Query: "anolis occultus" ; Times: 5
+	Query: "Crocodylus intermedius" ; Times: 1
+	Query: "genus:Celestus tissue:1" ; Times: 2
+	Query: "Pachydactylus namaquensis" ; Times: 1
+	Query: "genus:Oxyrhopus tissue:1" ; Times: 3
+	Query: "Pantherophis guttata stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Pachydactylus institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:Smilisca specificepithet:cyanosticta" ; Times: 1
+	Query: "genus:Drepanoides" ; Times: 1
+	Query: "tropidophiidae" ; Times: 1
+	Query: "crocodylus intermedius" ; Times: 3
+	Query: "manus order:Anura" ; Times: 1
+	Query: "crocodylus moreletii" ; Times: 1
+	Query: "alligator sinensis" ; Times: 2
+	Query: "genus:Drepanoides tissue:1" ; Times: 2
+	Query: "pantherophis slowinskii" ; Times: 1
+	Query: "Siren intermedia institutioncode:LSUMZ" ; Times: 1
+	Query: "Lichanura trivirgata baja california sur" ; Times: 1
+	Query: "talpoideum stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "genus:Micrurus tissue:1" ; Times: 1
+	Query: "class:reptilia country:&#34;Tanzania&#34; tissue:1" ; Times: 1
+	Query: "siren intermedia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "CROCODYLUS MORELETII" ; Times: 3
+	Query: "Coluber constrictor New Mexico" ; Times: 1
+	Query: "specificepithet:melanolomus genus:Mastigodryas country:&#34;Panama&#34;" ; Times: 1
+	Query: "anolis lemurinus tissue:1" ; Times: 2
+	Query: "Pantherophis guttata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 327 download events in this period)
+Total number of records downloaded: 1504
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 24
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 2
+	Date: 2016-05-09 ; Times: 3
+	Date: 2016-05-19 ; Times: 2
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-02 ; Times: 2
+	Date: 2016-05-03 ; Times: 1
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-11 ; Times: 2
+	Date: 2016-05-07 ; Times: 5
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-24 ; Times: 2
+	Date: 2016-05-31 ; Times: 7
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-21 ; Times: 1
+	Date: 2016-05-10 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Stegonotus tissue:1" ; Times: 2
+	Query: "class:reptilia stateprovince:&#34;Mbeya&#34; country:&#34;Tanzania&#34; tissue:1" ; Times: 1
+	Query: "phyllomedusa trinitatis" ; Times: 1
+	Query: "phyllomedusa tarsius" ; Times: 1
+	Query: "genus:clelia tissue:1" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "genus:pseudoboa tissue:1" ; Times: 1
+	Query: "Crocodylus rhombifer" ; Times: 1
+	Query: "stegonotus" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "class:reptilia country:&#34;philippines&#34;" ; Times: 1
+	Query: "genus:Oxyrhopus tissue:1" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 2
+	Query: "phyllomedusa vaillanti" ; Times: 1
+	Query: "uta stansburiana" ; Times: 1
+	Query: "Alligator sinensis" ; Times: 1
+	Query: "Eurycea" ; Times: 1
+	Query: "Clonophis kirtlandii" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;Rukwa&#34; country:&#34;Tanzania&#34; tissue:1" ; Times: 1
+	Query: "crocodylus intermedius" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "fowleri specificepithet:fowleri class:Amphibia" ; Times: 1
+	Query: "tribolonotus" ; Times: 1
+	Query: "Sceloporus jarrovii" ; Times: 1
+	Query: "clamitans tissue:1" ; Times: 1
+	Query: "genus:Drepanoides tissue:1" ; Times: 1
+	Query: "Dicamptodon" ; Times: 1
+	Query: "Python reticulatus" ; Times: 1
+	Query: "eleutherodactylus cystignathoides" ; Times: 1
+	Query: "siren intermedia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "notophthalmus viridescens stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "leptophis diplotropis" ; Times: 1
+	Query: "coluber stateprovince:&#34;texas&#34;" ; Times: 1
+
+
+End of report.
