@@ -1,0 +1,129 @@
+Report for Institution Code LSUMZ, Resource lsumz-herp-tissues
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 689
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 43
+	Country: Belgium ; Times: 1
+	Country: Germany ; Times: 9
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 5
+	Date: 2016-09-12 ; Times: 2
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-08 ; Times: 2
+	Date: 2016-09-14 ; Times: 2
+	Date: 2016-09-04 ; Times: 7
+	Date: 2016-09-05 ; Times: 1
+	Date: 2016-09-06 ; Times: 8
+	Date: 2016-09-07 ; Times: 6
+	Date: 2016-09-26 ; Times: 1
+	Date: 2016-09-01 ; Times: 14
+	Date: 2016-09-02 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:woodhousii genus:Bufo stateprovince:&#34;New Hampshire&#34;" ; Times: 1
+	Query: "cylindrophis tissue:1" ; Times: 1
+	Query: "basiliscus plumifrons" ; Times: 1
+	Query: "catalognumber:12498" ; Times: 1
+	Query: "Typhlops tissue:1" ; Times: 1
+	Query: "LSUMZ 1030" ; Times: 1
+	Query: "pituophis institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "genus:Shinisaurus tissue:1" ; Times: 2
+	Query: "family:Typhlopidae AND (NOT braminus) tissue:1" ; Times: 1
+	Query: "farancia institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Texas&#34; tissue:1" ; Times: 1
+	Query: "specificepithet:feae genus:Azemiops" ; Times: 1
+	Query: "genus:Bogertophis tissue:1" ; Times: 1
+	Query: "LSUMZ 9907" ; Times: 2
+	Query: "rhinophis tissue:1" ; Times: 2
+	Query: "genus:Uromastyx order:Squamata tissue:1" ; Times: 1
+	Query: "cherriei tissue:1" ; Times: 3
+	Query: "specificepithet:cornutum genus:Phrynosoma tissue:1" ; Times: 1
+	Query: "genus:Tupinambis family:Teiidae institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "Leptotyphlops specificepithet:dulcis tissue:1" ; Times: 2
+	Query: "hemidactylus mabouia brazil tissue:1" ; Times: 1
+	Query: "Amphisbaena institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "Leptotyphlops tissue:1" ; Times: 1
+	Query: "jobiensis family:Scincidae country:&#34;New Guinea&#34; institutioncode:LSUMZ tissue:1" ; Times: 2
+	Query: "chelydra tissue:1" ; Times: 1
+	Query: "Amphisbaena alba tissue:1" ; Times: 1
+	Query: "Uromastyx institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "genus:Ameiva family:Teiidae institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "specificepithet:acutus genus:Deinagkistrodon" ; Times: 1
+	Query: "specificepithet:dulcis genus:Leptotyphlops order:Squamata tissue:1" ; Times: 1
+	Query: "Uropeltidae tissue:1" ; Times: 2
+	Query: "specificepithet:Atrox genus:Crotalus stateprovince:&#34;Texas&#34; tissue:1" ; Times: 1
+	Query: "Agkistrodon contortrix texas (tissue)" ; Times: 1
+	Query: "anolis carpenteri" ; Times: 1
+	Query: "Mabuya quinquetaeniata institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Ophisaurus family:Anguidae tissue:1" ; Times: 1
+	Query: "Dicamptodon aterrimus" ; Times: 3
+	Query: "Mabuya perrotetii institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "anilius scytale tissue:1" ; Times: 2
+	Query: "uropeltis tissue:1" ; Times: 2
+	Query: "Eleutherodactylus cystignathoides" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 811 download events in this period)
+Total number of records downloaded: 1156
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 16
+	Country: Mexico ; Times: 4
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 5
+	Date: 2016-09-12 ; Times: 2
+	Date: 2016-09-10 ; Times: 1
+	Date: 2016-09-08 ; Times: 1
+	Date: 2016-09-09 ; Times: 6
+	Date: 2016-09-14 ; Times: 3
+	Date: 2016-09-05 ; Times: 3
+	Date: 2016-09-06 ; Times: 1
+	Date: 2016-09-07 ; Times: 1
+	Date: 2016-09-01 ; Times: 1
+	Date: 2016-09-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "anolis capito" ; Times: 1
+	Query: "hemidactylus continent:africa tissue:1" ; Times: 1
+	Query: "Rhinophis" ; Times: 1
+	Query: "specificepithet:cyanogenys genus:Sceloporus family:Phrynosomatidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "hyla eximia" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "Rhyacotriton variegatus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Pantherophis tissue:1" ; Times: 1
+	Query: "bufo woodhousii" ; Times: 1
+	Query: "specificepithet:viridescens genus:Notophthalmus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "clelia" ; Times: 2
+	Query: "rana pipiens" ; Times: 1
+	Query: "anolis lemurinus" ; Times: 1
+	Query: "Lithodytes lineatus" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "thailand" ; Times: 2
+	Query: "hemidactylus continent:south america tissue:1" ; Times: 1
+	Query: "uropeltidae" ; Times: 1
+	Query: "specificepithet:quadridigitata genus:Eurycea stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "uropeltis" ; Times: 1
+	Query: "hemidactylus continent:america tissue:1" ; Times: 1
+	Query: "Pedioplanis namaquensis" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+
+
+End of report.
