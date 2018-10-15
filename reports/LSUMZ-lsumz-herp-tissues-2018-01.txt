@@ -1,0 +1,217 @@
+Report for Institution Code LSUMZ, Resource lsumz-herp-tissues
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 146
+Number of records retrieved in searches: 1160
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 68
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 57
+	Country: United Kingdom ; Times: 11
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 3
+	Date: 2018-01-18 ; Times: 2
+	Date: 2018-01-31 ; Times: 3
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-11 ; Times: 4
+	Date: 2018-01-10 ; Times: 1
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-14 ; Times: 4
+	Date: 2018-01-17 ; Times: 34
+	Date: 2018-01-24 ; Times: 35
+	Date: 2018-01-08 ; Times: 6
+	Date: 2018-01-09 ; Times: 3
+	Date: 2018-01-29 ; Times: 3
+	Date: 2018-01-02 ; Times: 1
+	Date: 2018-01-25 ; Times: 14
+	Date: 2018-01-26 ; Times: 3
+	Date: 2018-01-01 ; Times: 7
+	Date: 2018-01-20 ; Times: 2
+	Date: 2018-01-21 ; Times: 2
+	Date: 2018-01-22 ; Times: 2
+	Date: 2018-01-05 ; Times: 4
+	Date: 2018-01-23 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Uropeltidae institutioncode:LSUMZ" ; Times: 1
+	Query: "Clelia clelia" ; Times: 2
+	Query: "corytophanes hernandesii" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 2
+	Query: "Coniophanes bipunctatus" ; Times: 2
+	Query: "genus:Bufo collectioncode:herpsTissues institutioncode:LSUMZ" ; Times: 1
+	Query: "pareas" ; Times: 1
+	Query: "rhinobothryum" ; Times: 2
+	Query: "Crotalus polystictus" ; Times: 7
+	Query: "specificepithet:enyo genus:Crotalus hastissue:1" ; Times: 1
+	Query: "specificepithet:melanolomus genus:Mastigodryas country:&#34;Panama&#34; institutioncode:LSUMZ" ; Times: 4
+	Query: "family:Anguidae class:Reptilia stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "genus:Rhinobothryum" ; Times: 1
+	Query: "Bolitoglossa mexicana" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 2
+	Query: "Dicamptodon aterrimus" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 2
+	Query: "specificepithet:slowinskii genus:pantherophis stateprovince:&#34;louisiana&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 2
+	Query: "specificepithet:americanus genus:Bufo collectioncode:herpsTissues institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:1995 institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Afronatrix hastissue:1" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 2
+	Query: "genus:bogertophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:ochrophaeus genus:Desmognathus hastissue:1" ; Times: 1
+	Query: "genus:heterodon simus stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Ptychohyla hypomykter" ; Times: 1
+	Query: "pseudacris crucifer alabama" ; Times: 2
+	Query: "specificepithet:chrysargoides genus:Rhabdophis hastissue:1" ; Times: 1
+	Query: "genus:Uropeltis institutioncode:LSUMZ hastissue:1" ; Times: 2
+	Query: "Leptophis ahaetulla" ; Times: 2
+	Query: "Gonocephalus dilophus" ; Times: 1
+	Query: "Anolis capito" ; Times: 2
+	Query: "Bufo castaneoticus" ; Times: 3
+	Query: "genus:Adelophis hastissue:1" ; Times: 1
+	Query: "adelophis foxi" ; Times: 1
+	Query: "Sceloporus taeniocnemis" ; Times: 2
+	Query: "Bothriechis schlegelii" ; Times: 2
+	Query: "Mesaspis moreletii" ; Times: 2
+	Query: "Scaphiodontophis annulatus" ; Times: 2
+	Query: "genus:Rhinophis institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "gbifdatasetid:807747cb-d128-4029-af64-9f4ba53c4285" ; Times: 2
+	Query: "Smilisca cyanosticta" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa institutioncode:LSUMZ" ; Times: 1
+	Query: "lsumz 21018" ; Times: 1
+	Query: "specificepithet:bicolor class:Reptilia hastissue:1" ; Times: 1
+	Query: "catalognumber:505 institutioncode:LSUMZ" ; Times: 3
+	Query: "Bolitoglossa lincolni" ; Times: 1
+	Query: "Xenodon rabdocephalus" ; Times: 2
+	Query: "specificepithet:fallax genus:telescopus hastissue:1" ; Times: 1
+	Query: "genus:Duellmanohyla specificepithet:soralia" ; Times: 1
+	Query: "genus:pelobates hastissue:1" ; Times: 3
+	Query: "catalognumber:4670 institutioncode:LSUMZ" ; Times: 1
+	Query: "Senticolis triaspis" ; Times: 2
+	Query: "Tretanorhinus nigroluteus" ; Times: 2
+	Query: "Rhadinaea decorata" ; Times: 2
+	Query: "genus:Pantherophis stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "LSU 5756" ; Times: 3
+	Query: "specificepithet:brachystoma genus:Thamnophis hastissue:1" ; Times: 1
+	Query: "Mastigodryas melanolomus" ; Times: 2
+	Query: "18139" ; Times: 1
+	Query: "Corallus" ; Times: 1
+	Query: "family:pygopodidae institutioncode:LSUMZ" ; Times: 1
+	Query: "Thamnophis fulvus" ; Times: 2
+	Query: "Psammophis rukwae" ; Times: 1
+	Query: "Corytophanes cristatus" ; Times: 2
+	Query: "Leptodeira frenata" ; Times: 2
+	Query: "Micropechis" ; Times: 1
+	Query: "Conophis lineatus" ; Times: 2
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "sceloporus undulatus alabama" ; Times: 2
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Gambelia sila" ; Times: 1
+	Query: "Anolis biporcatus" ; Times: 2
+	Query: "specificepithet:talpoideum genus:ambystoma stateprovince:&#34;alabama&#34;" ; Times: 2
+	Query: "genus:helicops hastissue:1" ; Times: 1
+	Query: "tantilla tissue" ; Times: 6
+	Query: "specificepithet:triseriatus genus:Crotalus hastissue:1" ; Times: 1
+	Query: "osteolaemus" ; Times: 1
+	Query: "Coniophanes fissidens" ; Times: 2
+	Query: "Coniophanes imperialis" ; Times: 2
+	Query: "dilophus" ; Times: 2
+	Query: "Corytophanes hernandesii" ; Times: 2
+	Query: "vntype:specimen specificepithet:dilophus class:Reptilia basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:melanolomus genus:Mastigodryas country:&#34;Panama&#34;" ; Times: 3
+	Query: "Oxybelis fulgidus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 1398 download events in this period)
+Total number of records downloaded: 1989
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 32
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-29 ; Times: 2
+	Date: 2018-01-11 ; Times: 2
+	Date: 2018-01-15 ; Times: 3
+	Date: 2018-01-13 ; Times: 5
+	Date: 2018-01-12 ; Times: 3
+	Date: 2018-01-20 ; Times: 2
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-17 ; Times: 2
+	Date: 2018-01-14 ; Times: 3
+	Date: 2018-01-24 ; Times: 3
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-22 ; Times: 3
+	Date: 2018-01-25 ; Times: 10
+	Date: 2018-01-31 ; Times: 8
+	Date: 2018-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "allobates femoralis" ; Times: 1
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "family:Uropeltidae institutioncode:LSUMZ" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "Rana boylii" ; Times: 2
+	Query: "anolis luciae" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "stateprovince:mississippi class:reptilia" ; Times: 1
+	Query: "family:pygopodidae institutioncode:LSUMZ" ; Times: 1
+	Query: "Rana pipiens vntype:specimen" ; Times: 1
+	Query: "specificepithet:sila genus:Gambelia" ; Times: 1
+	Query: "Ensatina" ; Times: 1
+	Query: "Psammophis rukwae" ; Times: 1
+	Query: "Micropechis" ; Times: 2
+	Query: "pareas" ; Times: 1
+	Query: "Dicamptodon copei" ; Times: 1
+	Query: "atelopus spumarius" ; Times: 2
+	Query: "genus:Rhabdophis hastissue:1" ; Times: 1
+	Query: "genus:boa" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "litoria caerulea" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "Thamnophis melanogaster" ; Times: 2
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;Louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "Peltophryne" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "dasypeltis scabra" ; Times: 1
+	Query: "Gonocephalus dilophus" ; Times: 1
+	Query: "gambelia sila" ; Times: 1
+	Query: "Atelopus spumarius" ; Times: 2
+	Query: "stateprovince:mississippi class:amphibia" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 2
+	Query: "crotalus molossus" ; Times: 1
+	Query: "vntype:specimen specificepithet:dilophus class:Reptilia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "adelophis foxi" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "Dicamptodon aterrimus" ; Times: 1
+	Query: "genus:Amphiesma hastissue:1" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "Dicamptodon tenebrosus" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "(PHRYNOSOMATIDAE) basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+
+
+End of report.
