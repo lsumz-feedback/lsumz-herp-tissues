@@ -1,0 +1,251 @@
+Report for Institution Code LSUMZ, Resource lsumz-herp-tissues
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 184
+Number of records retrieved in searches: 3159
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 169
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 10
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 4
+	Date: 2018-05-07 ; Times: 9
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-16 ; Times: 47
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-12 ; Times: 4
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-08 ; Times: 4
+	Date: 2018-05-09 ; Times: 5
+	Date: 2018-05-28 ; Times: 3
+	Date: 2018-05-03 ; Times: 2
+	Date: 2018-05-21 ; Times: 5
+	Date: 2018-05-23 ; Times: 42
+	Date: 2018-05-24 ; Times: 39
+	Date: 2018-05-25 ; Times: 12
+	Date: 2018-05-14 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Mastigodryas country:&#34;Panama&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "Celestus enneagrammus" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Leptodactylus institutioncode:LSUMZ" ; Times: 3
+	Query: "specificepithet:brevirostris genus:Leptopelis hastissue:1" ; Times: 1
+	Query: "Liophis typhlus hastissue:1" ; Times: 2
+	Query: "LSUMZ 9179" ; Times: 2
+	Query: "Hemiphractus scutatus" ; Times: 1
+	Query: "specificepithet:kubori genus:Nyctimystes institutioncode:LSUMZ" ; Times: 3
+	Query: "specificepithet:truei genus:Ascaphus institutioncode:LSUMZ" ; Times: 4
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 2
+	Query: "specificepithet:oxyrhynchus genus:Ptychadena institutioncode:LSUMZ" ; Times: 3
+	Query: "gbifdatasetid:807747cb-d128-4029-af64-9f4ba53c4285" ; Times: 1
+	Query: "LSUMZ 2730 hastissue:1" ; Times: 2
+	Query: "specificepithet:lineatus genus:Lithodytes institutioncode:LSUMZ" ; Times: 3
+	Query: "specificepithet:Molurus genus:Python hastissue:1" ; Times: 1
+	Query: "specificepithet:femoralis genus:Allobates institutioncode:LSUMZ" ; Times: 4
+	Query: "Liophis typhlus hastissue:1 LSUMZ" ; Times: 1
+	Query: "philothamnus natalensis" ; Times: 1
+	Query: "Micrurus hemprichii" ; Times: 1
+	Query: "specificepithet:pelewensis genus:Platymantis institutioncode:LSUMZ" ; Times: 3
+	Query: "specificepithet:syriacus genus:Pelobates institutioncode:LSUMZ" ; Times: 3
+	Query: "sistrurus ravus" ; Times: 2
+	Query: "specificepithet:cornuta genus:Ceratophrys institutioncode:LSUMZ" ; Times: 3
+	Query: "LSUMZ 2730" ; Times: 1
+	Query: "specificepithet:natalensis genus:Phrynobatrachus institutioncode:LSUMZ" ; Times: 3
+	Query: "micrurus alleni" ; Times: 1
+	Query: "Anolis vermiculatus" ; Times: 3
+	Query: "clonophis kirtlandii ohio" ; Times: 1
+	Query: "class:Reptilia country:&#34;Nicaragua&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "Dicamptodon aterrimus" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "Paleosuchus palpebrosus" ; Times: 4
+	Query: "enhydris bocourti" ; Times: 1
+	Query: "Liophis poecilogyrus hastissue:1" ; Times: 1
+	Query: "Micrurus langsdorffi" ; Times: 1
+	Query: "lycophidion laterale" ; Times: 9
+	Query: "LSUMZ 9179 hastissue:1" ; Times: 1
+	Query: "specificepithet:temporaria genus:Rana institutioncode:LSUMZ" ; Times: 3
+	Query: "specificepithet:arenicolor genus:Hyla institutioncode:LSUMZ" ; Times: 3
+	Query: "Micrurus distans" ; Times: 1
+	Query: "micrurus distans" ; Times: 1
+	Query: "specificepithet:caerulea genus:Litoria institutioncode:LSUMZ" ; Times: 3
+	Query: "clonophis kirtlandii indiana" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana institutioncode:LSUMZ" ; Times: 3
+	Query: "Liophis miliaris hastissue:1" ; Times: 1
+	Query: "specificepithet:hypochondrialis genus:Phyllomedusa institutioncode:LSUMZ" ; Times: 3
+	Query: "specificepithet:neuwiedii genus:Pseudoboa institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:taurinus genus:Osteocephalus institutioncode:LSUMZ" ; Times: 3
+	Query: "specificepithet:holbrookii genus:Scaphiopus institutioncode:LSUMZ" ; Times: 3
+	Query: "specificepithet:kivuensis genus:Leptopelis institutioncode:LSUMZ" ; Times: 3
+	Query: "specificepithet:berlandieri genus:Rana institutioncode:LSUMZ" ; Times: 3
+	Query: "bufo houstonensis" ; Times: 1
+	Query: "specificepithet:cheesmanae genus:Cophixalus institutioncode:LSUMZ" ; Times: 3
+	Query: "specificepithet:bimaculatus genus:Anolis hastissue:1" ; Times: 1
+	Query: "specificepithet:variabilis genus:Arthroleptis institutioncode:LSUMZ" ; Times: 4
+	Query: "specificepithet:cultripes genus:Pelobates institutioncode:LSUMZ" ; Times: 3
+	Query: "specificepithet:guttata genus:pantherophis" ; Times: 2
+	Query: "specificepithet:couchii genus:Scaphiopus institutioncode:LSUMZ" ; Times: 3
+	Query: "specificepithet:callidryas genus:Agalychnis institutioncode:LSUMZ" ; Times: 5
+	Query: "specificepithet:buergeri genus:Buergeria institutioncode:LSUMZ" ; Times: 3
+	Query: "catalognumber:9336 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:paradoxa genus:Pseudis institutioncode:LSUMZ" ; Times: 3
+	Query: "specificepithet:mascareniensis genus:Ptychadena institutioncode:LSUMZ" ; Times: 3
+	Query: "bogertophis rosaliae" ; Times: 1
+	Query: "specificepithet:ovalis genus:Elachistocleis institutioncode:LSUMZ" ; Times: 3
+	Query: "specificepithet:cryptotympanum genus:Cophixalus institutioncode:LSUMZ" ; Times: 3
+	Query: "Micrurus albicinctus" ; Times: 2
+	Query: "specificepithet:longinasus genus:Peltophryne institutioncode:LSUMZ" ; Times: 3
+	Query: "Anolis christophei" ; Times: 1
+	Query: "specificepithet:tomopterna genus:Phyllomedusa institutioncode:LSUMZ" ; Times: 3
+	Query: "specificepithet:microps genus:Phrynomantis institutioncode:LSUMZ" ; Times: 3
+	Query: "genus:Mastigodryas country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:rufescens genus:Hylophorbus institutioncode:LSUMZ" ; Times: 3
+	Query: "specificepithet:catesbeiana genus:Rana institutioncode:LSUMZ" ; Times: 3
+	Query: "Liophis epinephelus hastissue:1" ; Times: 2
+	Query: "Xenosauridae hastissue:1" ; Times: 1
+	Query: "class:Reptilia country:&#34;Panama&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:getula genus:lampropeltis stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "specificepithet:auratus genus:Dendrobates institutioncode:LSUMZ" ; Times: 3
+	Query: "specificepithet:geayi genus:Ctenophryne institutioncode:LSUMZ" ; Times: 3
+	Query: "specificepithet:planirostris genus:Eleutherodactylus institutioncode:LSUMZ" ; Times: 3
+	Query: "Micrurus ruatanus" ; Times: 1
+	Query: "class:Reptilia country:&#34;Nicaragua&#34; AND (NOT ANOLIS NOT AMEIVA) institutioncode:LSUMZ" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 93 (out of 1178 download events in this period)
+Total number of records downloaded: 8804
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 12
+	Country: Mexico ; Times: 32
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Spain ; Times: 42
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-20 ; Times: 4
+	Date: 2018-05-21 ; Times: 3
+	Date: 2018-05-22 ; Times: 3
+	Date: 2018-05-23 ; Times: 3
+	Date: 2018-05-24 ; Times: 3
+	Date: 2018-05-25 ; Times: 2
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-06 ; Times: 3
+	Date: 2018-05-07 ; Times: 11
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-02 ; Times: 3
+	Date: 2018-05-01 ; Times: 3
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 10
+	Date: 2018-05-30 ; Times: 7
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-17 ; Times: 4
+	Date: 2018-05-16 ; Times: 5
+	Date: 2018-05-13 ; Times: 5
+	Date: 2018-05-12 ; Times: 3
+	Date: 2018-05-19 ; Times: 10
+	Date: 2018-05-18 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana berlandieri" ; Times: 1
+	Query: "Eurycea longicauda" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Bufo houstonensis" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Plethodon mississippi" ; Times: 1
+	Query: "Bufo punctatus" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "kinosternon scorpioides" ; Times: 1
+	Query: "Necturus maculosus" ; Times: 1
+	Query: "ensatina" ; Times: 1
+	Query: "Plethodon grobmani" ; Times: 2
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "Plethodon kisatchie" ; Times: 2
+	Query: "Necturus alabamensis" ; Times: 1
+	Query: "Bolitoglossa mexicana" ; Times: 2
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "Imantodes gemmistratus" ; Times: 1
+	Query: "Bolitoglossa rufescens" ; Times: 2
+	Query: "Paleosuchus palpebrosus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Amphiuma pholeter" ; Times: 1
+	Query: "Thamnophis proximus" ; Times: 1
+	Query: "Eurycea lucifuga" ; Times: 1
+	Query: "Desmognathus marmoratus" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "Rana sphenocephala" ; Times: 1
+	Query: "class:amphibia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Eurycea bislineata" ; Times: 1
+	Query: "Amphiuma means" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "Desmognathus monticola" ; Times: 1
+	Query: "Eurycea cirrigera" ; Times: 1
+	Query: "genus:Atropoides OR Cerrophidion OR Bothriechis OR Lachesis OR Mixcoatlus OR Ophryacus OR porthidium" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "Pseudobranchus axanthus" ; Times: 1
+	Query: "Dicamptodon copei" ; Times: 1
+	Query: "Leptophis ahaetulla" ; Times: 1
+	Query: "Thamnophis eques" ; Times: 1
+	Query: "Plethodon virginia" ; Times: 1
+	Query: "Siren intermedia" ; Times: 2
+	Query: "specificepithet:punctatus genus:Bufo" ; Times: 1
+	Query: "dicamptodon ensatus" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "class:REPTILIA stateprovince:&#34;SINALOA&#34;" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "class:amphibia country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "Celestus enneagrammus" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Dipsosaurus" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 2
+	Query: "Eurycea multiplicata" ; Times: 1
+	Query: "Bolitoglossa lincolni" ; Times: 1
+	Query: "Thamnophis cyrtopsis" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "bufo houstonensis" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "Desmognathus quadramaculatus" ; Times: 1
+	Query: "Thamnophis scalaris" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "Thamnophis marcianus" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "class:amphibia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "desmognathus auriculatus" ; Times: 1
+	Query: "Bolitoglossa peruviana" ; Times: 1
+	Query: "Necturus beyeri" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "Anolis biporcatus" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "genus:agkistrodon" ; Times: 1
+	Query: "Plethodon chlorobryonis" ; Times: 1
+	Query: "Eurycea quadridigitata" ; Times: 1
+	Query: "Serpentes" ; Times: 1
+	Query: "Corytophanes hernandesii" ; Times: 1
+	Query: "hyla godmani" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "Dicamptodon tenebrosus" ; Times: 2
+	Query: "kinosternon leucostomum" ; Times: 1
+
+
+End of report.
