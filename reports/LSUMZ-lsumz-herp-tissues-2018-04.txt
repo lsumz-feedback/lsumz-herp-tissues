@@ -1,0 +1,250 @@
+Report for Institution Code LSUMZ, Resource lsumz-herp-tissues
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 183
+Number of records retrieved in searches: 737
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 112
+	Country: Israel ; Times: 8
+	Country: Australia ; Times: 29
+	Country: Mexico ; Times: 11
+	Country: France ; Times: 14
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 2
+	Country: Peru ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-23 ; Times: 2
+	Date: 2018-04-22 ; Times: 3
+	Date: 2018-04-21 ; Times: 13
+	Date: 2018-04-20 ; Times: 6
+	Date: 2018-04-27 ; Times: 30
+	Date: 2018-04-26 ; Times: 10
+	Date: 2018-04-25 ; Times: 3
+	Date: 2018-04-24 ; Times: 9
+	Date: 2018-04-01 ; Times: 4
+	Date: 2018-04-02 ; Times: 2
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-07 ; Times: 6
+	Date: 2018-04-06 ; Times: 3
+	Date: 2018-04-09 ; Times: 8
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-10 ; Times: 4
+	Date: 2018-04-16 ; Times: 17
+	Date: 2018-04-17 ; Times: 41
+	Date: 2018-04-14 ; Times: 7
+	Date: 2018-04-18 ; Times: 4
+	Date: 2018-04-19 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Varanus gouldii hastissue:1" ; Times: 1
+	Query: "Casarea hastissue:1" ; Times: 1
+	Query: "specificepithet:dulcis stateprovince:&#34;Arizona&#34;" ; Times: 5
+	Query: "Sibynomorphus turgidus" ; Times: 1
+	Query: "Tropidophiidae hastissue:1" ; Times: 1
+	Query: "1823 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:bimaculatus genus:anolis hastissue:1" ; Times: 1
+	Query: "20557 institutioncode:LSUMZ" ; Times: 2
+	Query: "Anolis cuvieri hastissue:1" ; Times: 1
+	Query: "specificepithet:wattsi genus:anolis hastissue:1" ; Times: 1
+	Query: "Lialis burtonis hastissue:1" ; Times: 1
+	Query: "telescopus fallax" ; Times: 1
+	Query: "crocodylus west new guinea" ; Times: 1
+	Query: "8064 institutioncode:LSUMZ" ; Times: 1
+	Query: "crocodylus rhombifer" ; Times: 1
+	Query: "Aniliidae hastissue=1" ; Times: 1
+	Query: "Crotaphytus nebrius" ; Times: 1
+	Query: "Enyalioides hastissue:1" ; Times: 2
+	Query: "drymarchon state of sonora" ; Times: 1
+	Query: "Crocodylus mindorensis" ; Times: 1
+	Query: "specificepithet:polystictus genus:crotalus" ; Times: 1
+	Query: "Panaspis togoensis" ; Times: 1
+	Query: "Adelophis foxi" ; Times: 1
+	Query: "Anolis occultus hastissue:1" ; Times: 1
+	Query: "8226 institutioncode:LSUMZ" ; Times: 3
+	Query: "scientificname:Enyalioides laticeps " ; Times: 1
+	Query: "Narudasia" ; Times: 3
+	Query: "Lacertilia Zacatecas" ; Times: 1
+	Query: "genus:telescopus hastissue:1" ; Times: 1
+	Query: "specificepithet:montanus genus:Pseudotriton stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:crepitans genus:Acris stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Psammodromus hastissue:1" ; Times: 1
+	Query: "1732 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:tessellata genus:Natrix hastissue:1" ; Times: 2
+	Query: "genus: Casarea hastissue:1" ; Times: 1
+	Query: "genus:Pedioplanis hastissue:1" ; Times: 2
+	Query: "genus:Agkistrodon country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Cordylus hastissue:1" ; Times: 1
+	Query: "catalognumber:10905 institutioncode:LSUMZ" ; Times: 2
+	Query: "Oxyrhopus fitzingeri" ; Times: 1
+	Query: "genus:Narudasia hastissue:1" ; Times: 5
+	Query: "genus:Enyalioides hastissue:1" ; Times: 2
+	Query: "Anilius hastissue:1" ; Times: 2
+	Query: "Anomalepididae" ; Times: 1
+	Query: "catalognumber:7343 institutioncode:LSUMZ" ; Times: 1
+	Query: "duellmanohyla soralia" ; Times: 1
+	Query: "specificepithet:natrix genus:Natrix hastissue:1" ; Times: 1
+	Query: "specificepithet:vegrandis genus:crotalus" ; Times: 1
+	Query: "Mabuya nigropunctata" ; Times: 1
+	Query: "13989" ; Times: 1
+	Query: "anolis agassizi" ; Times: 1
+	Query: "catalognumber:18288 institutioncode:LSUMZ" ; Times: 1
+	Query: "8789 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:surinamensis genus:micrurus" ; Times: 3
+	Query: "specificepithet:durissus genus:Crotalus country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Plica hastissue:1" ; Times: 1
+	Query: "7704 institutioncode:LSUMZ" ; Times: 3
+	Query: "8750 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:garmani genus:anolis hastissue:1" ; Times: 1
+	Query: "genus: Cylindrophis hastissue:1" ; Times: 1
+	Query: "Rhabdophis chrysargoides" ; Times: 1
+	Query: "Pachydactylus namaquensis" ; Times: 1
+	Query: "liopeltis" ; Times: 1
+	Query: "Enyalius bilineatus" ; Times: 1
+	Query: "Rhinobothryum lentiginosum" ; Times: 1
+	Query: "genus:Uropeltis hastissue:1" ; Times: 2
+	Query: "genus:Uroplatus hastissue:1" ; Times: 3
+	Query: "specificepithet:rosaliae genus:Bogertophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:peltophryne hastissue:1" ; Times: 1
+	Query: "specificepithet: distans genus:micrurus" ; Times: 1
+	Query: "specificepithet:fallax genus:telescopus hastissue:1" ; Times: 2
+	Query: "Loxocemidae hastissue:1" ; Times: 6
+	Query: "specificepithet:schlegelii genus:bothriechis country:&#34;nicaragua&#34;" ; Times: 2
+	Query: "specificepithet:distans genus:micrurus" ; Times: 1
+	Query: "catalognumber:9529 institutioncode:LSUMZ" ; Times: 1
+	Query: "Leptodrymus pulcherrimus" ; Times: 2
+	Query: "specificepithet: ruatanus genus:micrurus" ; Times: 1
+	Query: "14723 institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Pareas hastissue:1" ; Times: 1
+	Query: "genus:Polychrus hastissue:1" ; Times: 1
+	Query: "genus:Macrochelys institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "micrurus distans" ; Times: 4
+	Query: "19004 institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:Amphisbaena hastissue:1" ; Times: 1
+	Query: "8214 institutioncode:LSUMZ" ; Times: 3
+	Query: "2840 institutioncode:LSUMZ" ; Times: 3
+	Query: "Siphlophis cervinus" ; Times: 1
+	Query: "2702 institutioncode:LSUMZ" ; Times: 2
+	Query: "15942 institutioncode:LSUMZ" ; Times: 4
+	Query: "Anolis occultus" ; Times: 1
+	Query: "genus:Stenocercus hastissue:1" ; Times: 1
+	Query: "8415 institutioncode:LSUMZ" ; Times: 3
+	Query: "Alopoglossus hastissue:1" ; Times: 1
+	Query: "Necturus beyeri" ; Times: 1
+	Query: "specificepithet:schlegelii genus:bothriechis country:&#34;guatemala&#34;" ; Times: 1
+	Query: "leptophis modestus" ; Times: 5
+	Query: "lampropeltis pyromelana" ; Times: 2
+	Query: "8770 institutioncode:LSUMZ" ; Times: 3
+	Query: "genus:Loxocemus hastissue:1" ; Times: 6
+	Query: "family:Aniliidae hastissue:1" ; Times: 1
+	Query: "20353 institutioncode:LSUMZ" ; Times: 2
+	Query: "Phelsuma ocellata" ; Times: 1
+	Query: "Hemachatus haemachatus hastissue:1" ; Times: 1
+	Query: "Philodryas patagoniensis country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "specificepithet:alterna genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:palaichthus genus:Hemidactylus hastissue:1" ; Times: 1
+	Query: "Rhabdophis Sulawesi" ; Times: 1
+	Query: "specificepithet:alleni genus:micrurus" ; Times: 1
+	Query: "specificepithet:ruatanus genus:micrurus" ; Times: 1
+	Query: "country:Ecuador scientificname:Allobates femoralis " ; Times: 2
+	Query: "genus:dendrophryniscus hastissue:1" ; Times: 1
+	Query: "typhlophis squamosus" ; Times: 2
+	Query: "Crotaphytus vestigium" ; Times: 1
+	Query: "Causus maculatus hastissue:1" ; Times: 1
+	Query: "family=Aniliidae hastissue=1" ; Times: 1
+	Query: "Varanus niloticus hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 1359 download events in this period)
+Total number of records downloaded: 1669
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Israel ; Times: 7
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 29
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 3
+	Date: 2018-04-12 ; Times: 4
+	Date: 2018-04-03 ; Times: 1
+	Date: 2018-04-02 ; Times: 2
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-07 ; Times: 6
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-19 ; Times: 1
+	Date: 2018-04-10 ; Times: 4
+	Date: 2018-04-23 ; Times: 10
+	Date: 2018-04-22 ; Times: 3
+	Date: 2018-04-20 ; Times: 2
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 2
+	Date: 2018-04-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana berlandieri" ; Times: 1
+	Query: "Enyalius bilineatus" ; Times: 1
+	Query: "Reptilia Zacatecas" ; Times: 2
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "Sibynomorphus turgidus" ; Times: 1
+	Query: "sceloporus malachiticus" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "Necturus beyeri" ; Times: 1
+	Query: "elgaria multicarinata" ; Times: 1
+	Query: "Anolis cuvieri hastissue:1" ; Times: 1
+	Query: "Scincella gemmingeri" ; Times: 1
+	Query: "Pachydactylus namaquensis" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "specificepithet:cucullatus genus:Stegonotus" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus" ; Times: 1
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 1
+	Query: "bothrops atrox" ; Times: 2
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "Rhinobothryum lentiginosum" ; Times: 1
+	Query: "Gastrophryne carolinensis" ; Times: 2
+	Query: "Oxyrhopus fitzingeri" ; Times: 1
+	Query: "leptopelis brevirostris" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "bothrops asper" ; Times: 1
+	Query: "genus:Opheodrys stateprovince:&#34;Louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Anolis hastissue:1" ; Times: 1
+	Query: "Phelsuma ocellata" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Zacatecas&#34;" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "Eleutherodactylus cystignathoides" ; Times: 1
+	Query: "Anolis occultus hastissue:1" ; Times: 1
+	Query: "Rana grylio" ; Times: 1
+	Query: "specificepithet:riobambae genus:Gastrotheca" ; Times: 2
+	Query: "sceloporus occidentalis hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "Rana sphenocephala" ; Times: 1
+	Query: "anotheca spinosa" ; Times: 1
+	Query: "Siphlophis cervinus" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "Hyla squirella" ; Times: 1
+
+
+End of report.
