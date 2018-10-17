@@ -1,0 +1,207 @@
+Report for Institution Code LSUMZ, Resource lsumz-herp-tissues
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 87
+Number of records retrieved in searches: 317
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 11
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 65
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Kenya ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-21 ; Times: 2
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-09 ; Times: 8
+	Date: 2018-07-04 ; Times: 6
+	Date: 2018-07-05 ; Times: 7
+	Date: 2018-07-20 ; Times: 3
+	Date: 2018-07-07 ; Times: 2
+	Date: 2018-07-26 ; Times: 1
+	Date: 2018-07-24 ; Times: 4
+	Date: 2018-07-03 ; Times: 2
+	Date: 2018-07-13 ; Times: 2
+	Date: 2018-07-12 ; Times: 3
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-10 ; Times: 1
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-16 ; Times: 4
+	Date: 2018-07-15 ; Times: 2
+	Date: 2018-07-14 ; Times: 5
+	Date: 2018-07-31 ; Times: 21
+	Date: 2018-07-30 ; Times: 4
+	Date: 2018-07-19 ; Times: 3
+	Date: 2018-07-18 ; Times: 1
+	Date: 2018-07-23 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "18064 LSUMZ" ; Times: 1
+	Query: "6560 LSUMZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Osteocephalus taurinus " ; Times: 1
+	Query: "genus:Adelophis" ; Times: 1
+	Query: "specificepithet:nigroluteus genus:Tretanorhinus hastissue:1" ; Times: 1
+	Query: "genus:Gonocephalus country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "lsumz 6183" ; Times: 1
+	Query: "Hydrops triangularis" ; Times: 1
+	Query: "anolis bonairensis institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 2
+	Query: "specificepithet:poecilonotus genus:Pseustes hastissue:1" ; Times: 1
+	Query: "Anolis bonairensis institutioncode:LSUMZ" ; Times: 1
+	Query: "micrurus alleni" ; Times: 1
+	Query: "catalognumber:7574 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa institutioncode:LSUMZ" ; Times: 1
+	Query: "chamaeleolis barbatus" ; Times: 4
+	Query: "Tylototriton verrucosus" ; Times: 1
+	Query: "class:Reptilia country:&#34;Bolivia&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:solare genus:Phrynosoma stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Corytophanes (specimen) hastissue:1" ; Times: 1
+	Query: "heterodon simus Florida" ; Times: 2
+	Query: "genus:adelophis" ; Times: 3
+	Query: "genus:Adelophis institutioncode:LSUMZ" ; Times: 5
+	Query: "genus:Oxybelis hastissue:1" ; Times: 3
+	Query: "sistrurus ravus" ; Times: 1
+	Query: "2208 LSUMZ" ; Times: 1
+	Query: "genus:Tretanorhinus hastissue:1" ; Times: 1
+	Query: "14206 LSUMZ tissues" ; Times: 1
+	Query: "LSUMZ 4356" ; Times: 1
+	Query: "specificepithet:cherriei genus:Sphenomorphus hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Pseudoeryx plicatilis " ; Times: 2
+	Query: "specificepithet:aeneus genus:Oxybelis hastissue:1" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Boiga multomaculata" ; Times: 1
+	Query: "Adelophis" ; Times: 1
+	Query: "Bogertophis rosaliae" ; Times: 1
+	Query: "genus:Chironius hastissue:1" ; Times: 1
+	Query: "atractaspis ghana" ; Times: 1
+	Query: "catalognumber:7573 institutioncode:LSUMZ" ; Times: 1
+	Query: "3627 LSUMZ" ; Times: 1
+	Query: "catalognumber:7576 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:phaeota genus:Smilisca hastissue:1" ; Times: 1
+	Query: "LSU 22274" ; Times: 1
+	Query: "specificepithet:cyrtopsis genus:Thamnophis stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "14206 LSUMZ" ; Times: 1
+	Query: "genus:agkistrodon stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "genus:Tropidophis family:Tropidophiidae hastissue:1" ; Times: 1
+	Query: "specificepithet:pullatus genus:Spilotes hastissue:1" ; Times: 1
+	Query: "Adelophis foxi" ; Times: 1
+	Query: "genus:Phrynomantis specificepithet:microps" ; Times: 2
+	Query: "Dicamptodon ensatus hastissue:1" ; Times: 1
+	Query: "specificepithet:fulgidus genus:Oxybelis hastissue:1" ; Times: 1
+	Query: "5261 LSUMZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Allobates femoralis " ; Times: 1
+	Query: "catalognumber:5468 institutioncode:LSUMZ" ; Times: 1
+	Query: "6612 LSUMZ" ; Times: 1
+	Query: "1229 lsumz" ; Times: 1
+	Query: "country:Ecuador scientificname:Bothrops atrox " ; Times: 1
+	Query: "country:Ecuador scientificname:Leptodactylus rhodomystax " ; Times: 1
+	Query: "Drymarchon florida" ; Times: 1
+	Query: "18337 ANd c" ; Times: 1
+	Query: "catalognumber:7577 institutioncode:LSUMZ" ; Times: 1
+	Query: "6696 LSUMZ" ; Times: 1
+	Query: "specificepithet:annulatus genus:Scaphiodontophis hastissue:1" ; Times: 1
+	Query: "Florida heterodon simus" ; Times: 3
+	Query: "specificepithet:alterna genus:lampropeltis stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Polychrus (specimen) hastissue:1" ; Times: 1
+	Query: "specificepithet:cyrtopsis genus:Thamnophis stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:gerrhonotus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "5958 LSUMZ" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 56 (out of 977 download events in this period)
+Total number of records downloaded: 674
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 24
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 8
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 12
+	Country: Kenya ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Bulgaria ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 4
+	Date: 2018-07-12 ; Times: 2
+	Date: 2018-07-11 ; Times: 3
+	Date: 2018-07-10 ; Times: 1
+	Date: 2018-07-17 ; Times: 4
+	Date: 2018-07-09 ; Times: 7
+	Date: 2018-07-04 ; Times: 2
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-18 ; Times: 4
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-25 ; Times: 5
+	Date: 2018-07-31 ; Times: 17
+	Date: 2018-07-19 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "kinixys" ; Times: 1
+	Query: "genus:Adelophis institutioncode:LSUMZ" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "crotalus lepidus texas" ; Times: 2
+	Query: "Cosymbotus platyurus" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "specificepithet:scutatus genus:Hemiphractus" ; Times: 1
+	Query: "Rana vaillanti" ; Times: 1
+	Query: "specificepithet:spumarius genus:Atelopus" ; Times: 2
+	Query: "Leptodactylus wagneri" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:guentheri genus:Gastrotheca" ; Times: 1
+	Query: "Leptodactylus melanonotus" ; Times: 1
+	Query: "Leptodactylus pentadactylus" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "specificepithet:lacertina genus:Siren" ; Times: 1
+	Query: "Platyurus platyurus" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "genus:Amphiuma institutioncode:LSUMZ" ; Times: 1
+	Query: "Crotalus enyo" ; Times: 1
+	Query: "Crotalus mitchellii" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Hemiphractus" ; Times: 1
+	Query: "Boiga multomaculata" ; Times: 1
+	Query: "Lepidoblepharis" ; Times: 2
+	Query: "Rana palmipes" ; Times: 1
+	Query: "oxyrhopus" ; Times: 1
+	Query: "thamnophis validus" ; Times: 1
+	Query: "family:Proteidae institutioncode:LSUMZ" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "specificepithet:femoralis genus:Allobates" ; Times: 1
+	Query: "specificepithet:cyrtopsis genus:Thamnophis stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Leptodactylus bolivianus" ; Times: 1
+	Query: "Leptodactylus fuscus" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:riobambae genus:Gastrotheca" ; Times: 1
+	Query: "Smilisca phaeota" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "(Liophis OR Leimadophis OR Lygophis OR Dromicus OR Xenodon OR Waglerophis OR Lystrophis OR Umbrivaga OR Erythrolamprus) basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "family:Sirenidae institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:intermedia genus:Siren" ; Times: 1
+	Query: "genus:Phrynomantis specificepithet:microps" ; Times: 1
+	Query: "family:chamaeleonidae hastissue:1" ; Times: 1
+	Query: "specificepithet:reticulatus genus:Crotaphytus" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "Scinax staufferi" ; Times: 1
+	Query: "vipera berus" ; Times: 2
+	Query: "Pseudogonatodes" ; Times: 1
+	Query: "specificepithet:cornuta genus:Ceratophrys" ; Times: 1
+	Query: "Bogertophis rosaliae" ; Times: 1
+	Query: "macrochelys" ; Times: 1
+
+
+End of report.
