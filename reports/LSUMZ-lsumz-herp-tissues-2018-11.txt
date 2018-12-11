@@ -1,0 +1,177 @@
+Report for Institution Code LSUMZ, Resource lsumz-herp-tissues
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 70
+Number of records retrieved in searches: 459
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 7
+	Country: France ; Times: 2
+	Country: United States ; Times: 43
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-04 ; Times: 15
+	Date: 2018-11-23 ; Times: 1
+	Date: 2018-11-09 ; Times: 2
+	Date: 2018-11-08 ; Times: 2
+	Date: 2018-11-07 ; Times: 2
+	Date: 2018-11-06 ; Times: 6
+	Date: 2018-11-05 ; Times: 6
+	Date: 2018-11-13 ; Times: 6
+	Date: 2018-11-03 ; Times: 5
+	Date: 2018-11-15 ; Times: 2
+	Date: 2018-11-01 ; Times: 3
+	Date: 2018-11-17 ; Times: 2
+	Date: 2018-11-10 ; Times: 1
+	Date: 2018-11-26 ; Times: 2
+	Date: 2018-11-21 ; Times: 1
+	Date: 2018-11-20 ; Times: 2
+	Date: 2018-11-30 ; Times: 2
+	Date: 2018-11-22 ; Times: 3
+	Date: 2018-11-24 ; Times: 1
+	Date: 2018-11-28 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Pseustes class:reptilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "specificepithet:aeneus genus:Anolis hastissue:1" ; Times: 1
+	Query: "Lampropeltis alterna Texas" ; Times: 1
+	Query: "Atractus flammigerus" ; Times: 1
+	Query: "Toxicodryas" ; Times: 1
+	Query: "corallus hortulanus" ; Times: 2
+	Query: "Pareas carinatus" ; Times: 1
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 4
+	Query: "genus:Elgaria stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:serval genus:pachydactylus" ; Times: 2
+	Query: "LSUMZ 4413" ; Times: 1
+	Query: "Egernia major" ; Times: 1
+	Query: "LSU 14295" ; Times: 2
+	Query: "crotalus unicolor" ; Times: 2
+	Query: "sibynomorphus turgidus" ; Times: 3
+	Query: "genus:siren stateprovince:&#34;mississippi&#34; hastissue:1" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "genus:Leptotyphlops order:squamata country:&#34;Brazil&#34;" ; Times: 2
+	Query: "LSUMZ 10351" ; Times: 2
+	Query: "hierophis" ; Times: 1
+	Query: "genus:hemachatus hastissue:1" ; Times: 1
+	Query: "genus:aspidelaps hastissue:1" ; Times: 1
+	Query: "specificepithet:unicolor genus:Crotalus" ; Times: 2
+	Query: "genus:siren stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "genus:Uma scoparia specificepithet:scoparia" ; Times: 4
+	Query: "stateprovince:&#34;Georgia&#34; Crotalus adamanteus" ; Times: 1
+	Query: "specificepithet:trinitatis genus:Anolis hastissue:1" ; Times: 1
+	Query: "catalognumber:4293 institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Walterinnesia hastissue:1" ; Times: 1
+	Query: "Thamnophis pulchrilatus" ; Times: 3
+	Query: "genus:Naja specificepithet:nigricollis" ; Times: 4
+	Query: "Gonocephalus dilophus" ; Times: 1
+	Query: "genus:hemitheconyx hastissue:1" ; Times: 1
+	Query: "genus:siren stateprovince:&#34;louisiana&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:osteopilus hastissue:1" ; Times: 1
+	Query: "uropeltidae institutioncode:LSUMZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:septentrionalis genus:Osteopilus hastissue:1" ; Times: 2
+	Query: "genus:elapsoidea hastissue:1" ; Times: 7
+	Query: "Acrochordus javanicus" ; Times: 1
+	Query: "genus:Dicamptodon specificepithet:aterrimus" ; Times: 1
+	Query: "Sibon fischeri" ; Times: 1
+	Query: "oligodon purpurascens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 1719 download events in this period)
+Total number of records downloaded: 2857
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 20
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 22
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Chile ; Times: 4
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 5
+	Date: 2018-11-08 ; Times: 2
+	Date: 2018-11-07 ; Times: 2
+	Date: 2018-11-06 ; Times: 3
+	Date: 2018-11-05 ; Times: 5
+	Date: 2018-11-13 ; Times: 1
+	Date: 2018-11-14 ; Times: 1
+	Date: 2018-11-02 ; Times: 1
+	Date: 2018-11-01 ; Times: 4
+	Date: 2018-11-15 ; Times: 4
+	Date: 2018-11-10 ; Times: 1
+	Date: 2018-11-27 ; Times: 1
+	Date: 2018-11-26 ; Times: 5
+	Date: 2018-11-21 ; Times: 3
+	Date: 2018-11-16 ; Times: 1
+	Date: 2018-11-30 ; Times: 1
+	Date: 2018-11-12 ; Times: 7
+	Date: 2018-11-29 ; Times: 1
+	Date: 2018-11-28 ; Times: 5
+	Date: 2018-11-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:alterna genus:lampropeltis" ; Times: 1
+	Query: "genus:Crocodylus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "family:Colubridae order:squamata country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:masticophis stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 1
+	Query: "corallus hortulanus" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "class:reptilia country:&#34;Venezuela&#34;" ; Times: 3
+	Query: "pythonidae" ; Times: 1
+	Query: "specificepithet:serval genus:pachydactylus" ; Times: 2
+	Query: "specificepithet:euryxanthus genus:Micruroides" ; Times: 1
+	Query: "Iguana iguana" ; Times: 2
+	Query: "specificepithet:catesbeiana genus:Rana hastissue:1" ; Times: 1
+	Query: "genus:pachydactylus" ; Times: 1
+	Query: "Amphibia vntype:specimen country:&#34;Panama&#34;" ; Times: 1
+	Query: "Trimorphodon tau" ; Times: 1
+	Query: "Holbrookia propinqua" ; Times: 1
+	Query: "family:Viperidae" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 2
+	Query: "specificepithet:nebrius genus:Crotaphytus" ; Times: 1
+	Query: "uma inornata" ; Times: 1
+	Query: "Xenodon rabdocephalus" ; Times: 2
+	Query: "Dasypeltis" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Dipsas catesbyi" ; Times: 1
+	Query: "Mastigodryas melanolomus" ; Times: 1
+	Query: "anolis lemurinus" ; Times: 1
+	Query: "order:squamata country:&#34;brazil&#34;" ; Times: 1
+	Query: "sceloporus" ; Times: 1
+	Query: "Pseustes poecilonotus" ; Times: 1
+	Query: "genus:Opheodrys" ; Times: 2
+	Query: "ceratophrys" ; Times: 1
+	Query: "Gonocephalus dilophus" ; Times: 1
+	Query: "gambelia sila" ; Times: 1
+	Query: "anolis biporcatus" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "class:Amphibia country:&#34;Ecuador&#34; hastissue:1" ; Times: 1
+	Query: "genus:hyla stateprovince:&#34;Guerrero&#34;" ; Times: 1
+	Query: "genus:Ptychadena hastissue:1" ; Times: 1
+	Query: "Tretanorhinus nigroluteus" ; Times: 1
+	Query: "uropeltidae institutioncode:LSUMZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:septentrionalis genus:Osteopilus hastissue:1" ; Times: 1
+	Query: "anolis sericeus" ; Times: 1
+	Query: "Scaphiodontophis annulatus" ; Times: 1
+	Query: "specificepithet:flavescens genus:Kinosternon family:Kinosternidae order:Testudines" ; Times: 1
+
+
+End of report.
