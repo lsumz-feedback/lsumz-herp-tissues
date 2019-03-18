@@ -1,0 +1,184 @@
+Report for Institution Code LSUMZ, Resource lsumz-herp-tissues
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 117
+Number of records retrieved in searches: 999
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 67
+	Country: Israel ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: India ; Times: 1
+	Country: Guatemala ; Times: 3
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Belgium ; Times: 24
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-23 ; Times: 2
+	Date: 2019-02-11 ; Times: 7
+	Date: 2019-02-10 ; Times: 5
+	Date: 2019-02-13 ; Times: 4
+	Date: 2019-02-12 ; Times: 6
+	Date: 2019-02-15 ; Times: 5
+	Date: 2019-02-14 ; Times: 2
+	Date: 2019-02-17 ; Times: 3
+	Date: 2019-02-16 ; Times: 2
+	Date: 2019-02-18 ; Times: 2
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-03 ; Times: 9
+	Date: 2019-02-26 ; Times: 2
+	Date: 2019-02-01 ; Times: 11
+	Date: 2019-02-20 ; Times: 8
+	Date: 2019-02-07 ; Times: 5
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-05 ; Times: 3
+	Date: 2019-02-08 ; Times: 12
+	Date: 2019-02-28 ; Times: 7
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-27 ; Times: 3
+	Date: 2019-02-06 ; Times: 5
+	Date: 2019-02-21 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:stilosoma" ; Times: 1
+	Query: "Atractus collaris" ; Times: 2
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "specificepithet:atrox genus:Bothrops hastissue:1" ; Times: 1
+	Query: "specificepithet:aestivus genus:philodryas" ; Times: 1
+	Query: "Hemiphractus scutatus" ; Times: 2
+	Query: "genus:siren stateprovince:&#34;mississippi&#34; institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "specificepithet:cucullatus genus:Stegonotus institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "specificepithet:Holbrookii genus:Scaphiopus hastissue:1" ; Times: 1
+	Query: "specificepithet:clelia genus:Clelia institutioncode:LSUMZ" ; Times: 1
+	Query: "Azemiops feae" ; Times: 1
+	Query: "specificepithet:platirhinos genus:Heterodon stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "specificepithet:bimaculatus genus:anolis hastissue:1" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:wattsi genus:anolis hastissue:1" ; Times: 1
+	Query: "specificepithet:lacertina genus:siren stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "pantherophis slowinskii" ; Times: 2
+	Query: "Adamanteus mississippi" ; Times: 2
+	Query: "genus:sternotherus institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Oxybelis hastissue:1" ; Times: 1
+	Query: "Ceratophrys country:&#34;Brazil&#34;" ; Times: 9
+	Query: "genus:Salvadora hastissue:1" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 2
+	Query: "specificepithet:maculatus genus:causus country:&#34;ghana&#34;" ; Times: 1
+	Query: "Alligator sinensis" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 2
+	Query: "specificepithet:hemprichii genus:Micrurus" ; Times: 1
+	Query: "specificepithet:clelia genus:Clelia country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "ceratophrys cornuta hastissue:1" ; Times: 2
+	Query: "genus:Crotalus stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:uropeltidae hastissue:1" ; Times: 5
+	Query: "genus:Stegonotus institutioncode:LSUMZ" ; Times: 4
+	Query: "specificepithet:taeniura family:Colubridae" ; Times: 1
+	Query: "gavialis" ; Times: 2
+	Query: "specificepithet:melanolomus genus:Mastigodryas country:&#34;Panama&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Alopoglossus copii " ; Times: 1
+	Query: "specificepithet:melanolomus genus:Dryadophis country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "specificepithet:gecko genus:gekko hastissue:1" ; Times: 2
+	Query: "genus:Rhinobothryum" ; Times: 2
+	Query: "genus:ceratophrys hastissue:1" ; Times: 1
+	Query: "specificepithet:minor genus:sternotherus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:copei genus:dicamptodon stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "genus:siren stateprovince:&#34;mississippi&#34; hastissue:1" ; Times: 1
+	Query: "genus:Micrurus family:Elapidae country:&#34;Peru&#34; institutioncode:LSUMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:siren stateprovince:&#34;louisiana&#34; hastissue:1" ; Times: 1
+	Query: "thamnophis pulchrilatus" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "Calliophis bivirgata" ; Times: 1
+	Query: "specificepithet:hypomykter genus:Ptychohyla country:&#34;Guatemala&#34;" ; Times: 2
+	Query: "catalognumber:2704 institutioncode:LSUMZ" ; Times: 2
+	Query: "Acrantophis madagascariensis" ; Times: 2
+	Query: "Acrantophis dumerili" ; Times: 3
+	Query: "Leptodrymus pulcherrimus" ; Times: 3
+	Query: "crocodylus mindorensis" ; Times: 2
+	Query: "catalognumber:7846 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:cucullatus genus:Stegonotus hastissue:1" ; Times: 1
+	Query: "specificepithet:marmoratus genus:anolis hastissue:1" ; Times: 1
+	Query: "specificepithet:zebrata genus:Corucia" ; Times: 2
+	Query: "catalognumber:7375 institutioncode:lsumz" ; Times: 1
+	Query: "genus:siren hastissue:1" ; Times: 2
+	Query: "Liopeltis" ; Times: 2
+	Query: "genus:Spilotes hastissue:1" ; Times: 2
+	Query: "Gastrotheca guentheri" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:rufozonatum family:Colubridae" ; Times: 1
+	Query: "Ceratophrys hastissue:1" ; Times: 11
+	Query: "genus:siren institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "Sphenomorphus jobiensis manus" ; Times: 1
+	Query: "genus:Scaphiopus stateprovince:&#34;Florida&#34; hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 1227 download events in this period)
+Total number of records downloaded: 582
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 24
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-04 ; Times: 3
+	Date: 2019-02-05 ; Times: 3
+	Date: 2019-02-13 ; Times: 2
+	Date: 2019-02-11 ; Times: 8
+	Date: 2019-02-10 ; Times: 1
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-06 ; Times: 3
+	Date: 2019-02-14 ; Times: 2
+	Date: 2019-02-17 ; Times: 2
+	Date: 2019-02-16 ; Times: 4
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-08 ; Times: 3
+	Date: 2019-02-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "phelsuma" ; Times: 1
+	Query: "Alligator mississippiensis vntype:specimen" ; Times: 1
+	Query: "genus:Sauromalus" ; Times: 11
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "Atelopus spumarius" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "Azemiops feae" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "tantilla melanocephala" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 3
+	Query: "crocodylus johnstoni" ; Times: 1
+	Query: "siphonops" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "genus:Chironius" ; Times: 1
+	Query: "genus:Ophisaurus hastissue:1" ; Times: 1
+	Query: "sceloporus spinosus" ; Times: 1
+	Query: "specificepithet:biscutatus genus:Trimorphodon" ; Times: 1
+	Query: "brachyphona" ; Times: 1
+	Query: "specificepithet:Aestivus genus:Opheodrys" ; Times: 1
+	Query: "genus:siren institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+
+
+End of report.
