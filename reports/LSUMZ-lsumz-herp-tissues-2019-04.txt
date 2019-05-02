@@ -1,0 +1,185 @@
+Report for Institution Code LSUMZ, Resource lsumz-herp-tissues
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 89
+Number of records retrieved in searches: 331
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 58
+	Country: Mexico ; Times: 1
+	Country: South Africa ; Times: 3
+	Country: India ; Times: 18
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Sweden ; Times: 2
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 2
+	Date: 2019-04-19 ; Times: 3
+	Date: 2019-04-18 ; Times: 3
+	Date: 2019-04-23 ; Times: 3
+	Date: 2019-04-13 ; Times: 6
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-10 ; Times: 1
+	Date: 2019-04-17 ; Times: 6
+	Date: 2019-04-16 ; Times: 3
+	Date: 2019-04-14 ; Times: 2
+	Date: 2019-04-30 ; Times: 9
+	Date: 2019-04-01 ; Times: 2
+	Date: 2019-04-02 ; Times: 9
+	Date: 2019-04-03 ; Times: 2
+	Date: 2019-04-22 ; Times: 2
+	Date: 2019-04-05 ; Times: 8
+	Date: 2019-04-06 ; Times: 13
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-27 ; Times: 1
+	Date: 2019-04-24 ; Times: 3
+	Date: 2019-04-25 ; Times: 3
+	Date: 2019-04-08 ; Times: 2
+	Date: 2019-04-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "elapsoidea sundevallii" ; Times: 2
+	Query: "genus:Gavialis" ; Times: 2
+	Query: "Hyalinobatrachium nouraguense" ; Times: 3
+	Query: "catalognumber:12666 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:10727 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:laredoensis genus:Cnemidophorus" ; Times: 1
+	Query: "LSUMZ 20031" ; Times: 2
+	Query: "Sibynomorphus turgidus" ; Times: 1
+	Query: "catalognumber:10730 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:21847 institutioncode:LSUMZ" ; Times: 1
+	Query: "gbifdatasetid:807747cb-d128-4029-af64-9f4ba53c4285" ; Times: 1
+	Query: "tomistoma" ; Times: 2
+	Query: "specificepithet:karissimbensis genus:Leptopelis institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "catalognumber:21857 institutioncode:LSUMZ" ; Times: 2
+	Query: "tomistoma schlegelii" ; Times: 2
+	Query: "specificepithet:maura genus:natrix hastissue:1" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Atractaspis tissue" ; Times: 1
+	Query: "crocodylus palustris" ; Times: 1
+	Query: "liopeltis" ; Times: 1
+	Query: "catalognumber:15230 institutioncode:LSUMZ" ; Times: 1
+	Query: "(3597) institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:18440 institutioncode:LSUMZ" ; Times: 3
+	Query: "genus:liopeltis hastissue:1" ; Times: 7
+	Query: "catalognumber:18727 institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:siren hastissue:1" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:5742 institutioncode:LSUMZ" ; Times: 2
+	Query: "crotaphytus san luis potosi" ; Times: 1
+	Query: "Gavialis" ; Times: 1
+	Query: "genus:Homoroselaps tissue" ; Times: 4
+	Query: "corucia hastissue:1" ; Times: 1
+	Query: "dendroaspis polylepis" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:cristatellus genus:anolis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:Triangulum stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:spumarius genus:Atelopus institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "genus:Leioheterodon tissue" ; Times: 2
+	Query: "crocodylus moreletii" ; Times: 1
+	Query: "walterinnesia" ; Times: 1
+	Query: "class:reptilia country:&#34;India&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:545 institutioncode:LSUMZ" ; Times: 1
+	Query: "adelophis" ; Times: 1
+	Query: "LSUMZ 17485" ; Times: 2
+	Query: "specificepithet:longinasus genus:Peltophryne institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "genus:Lycophidion hastissue:1" ; Times: 1
+	Query: "family:Colubridae country:&#34;India&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:21874 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:22317 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:sagrei genus:anolis stateprovince:&#34;Florida&#34; institutioncode:LSUMZ" ; Times: 2
+	Query: "family:Anguidae institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "genus:Liopeltis hastissue:1" ; Times: 1
+	Query: "Gavialis gangeticus" ; Times: 1
+	Query: "Helicops hagmanni" ; Times: 1
+	Query: "catalognumber:8257 institutioncode:LSUMZ" ; Times: 1
+	Query: "Bachia flavescens" ; Times: 1
+	Query: "vipera aspis" ; Times: 3
+	Query: "catalognumber:8552 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:modestus genus:Leptopelis institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 1263 download events in this period)
+Total number of records downloaded: 613
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: South Africa ; Times: 2
+	Country: United States ; Times: 27
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-18 ; Times: 2
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-10 ; Times: 1
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-16 ; Times: 7
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-04 ; Times: 2
+	Date: 2019-04-23 ; Times: 2
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-26 ; Times: 2
+	Date: 2019-04-06 ; Times: 2
+	Date: 2019-04-02 ; Times: 3
+	Date: 2019-04-25 ; Times: 6
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-08 ; Times: 2
+	Date: 2019-04-09 ; Times: 6
+	Date: 2019-04-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:sagrei genus:anolis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "Chilomeniscus cinctus" ; Times: 1
+	Query: "coleodactylus amazonicus" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "lachesis" ; Times: 2
+	Query: "genus:Pachydactylus" ; Times: 1
+	Query: "genus:Phyllodactylus" ; Times: 1
+	Query: "country:&#34;Uruguay&#34;" ; Times: 1
+	Query: "vipera aspis" ; Times: 3
+	Query: "candoia carinata" ; Times: 1
+	Query: "Anolis lemurinus" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "Lophognathus temporalis" ; Times: 1
+	Query: "desmognathus auriculatus" ; Times: 1
+	Query: "specificepithet:maculatum genus:ambystoma" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "genus:rhinoclemmys order:testudines" ; Times: 1
+	Query: "specificepithet:reticulatus genus:crotaphytus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:auriculatus genus:Desmognathus" ; Times: 1
+	Query: "dendroaspis polylepis" ; Times: 2
+	Query: "crocodylus moreletii" ; Times: 2
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "cnemaspis" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "specificepithet:laredoensis genus:Cnemidophorus" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 2
+	Query: "genus:Lycophidion hastissue:1" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "specificepithet:deppii genus:Cnemidophorus" ; Times: 1
+	Query: "LSUMZ catesbeiana" ; Times: 1
+	Query: "family:Anguidae institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:opacum" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:jeffersonianum" ; Times: 1
+
+
+End of report.
