@@ -1,0 +1,224 @@
+Report for Institution Code LSUMZ, Resource lsumz-herp-tissues
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 157
+Number of records retrieved in searches: 650
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 132
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Malaysia ; Times: 1
+	Country: Vietnam ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Taiwan ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-24 ; Times: 2
+	Date: 2020-02-03 ; Times: 2
+	Date: 2020-02-26 ; Times: 7
+	Date: 2020-02-27 ; Times: 11
+	Date: 2020-02-06 ; Times: 3
+	Date: 2020-02-07 ; Times: 1
+	Date: 2020-02-04 ; Times: 25
+	Date: 2020-02-05 ; Times: 9
+	Date: 2020-02-09 ; Times: 7
+	Date: 2020-02-28 ; Times: 12
+	Date: 2020-02-29 ; Times: 3
+	Date: 2020-02-10 ; Times: 12
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-12 ; Times: 2
+	Date: 2020-02-15 ; Times: 2
+	Date: 2020-02-14 ; Times: 6
+	Date: 2020-02-17 ; Times: 4
+	Date: 2020-02-16 ; Times: 2
+	Date: 2020-02-18 ; Times: 2
+	Date: 2020-02-25 ; Times: 5
+	Date: 2020-02-01 ; Times: 2
+	Date: 2020-02-20 ; Times: 34
+	Date: 2020-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Ctenophryne geayi" ; Times: 1
+	Query: "LSUMZ 11915" ; Times: 1
+	Query: "catalognumber:5238 institutioncode:LSUMZ" ; Times: 1
+	Query: "Ficimia publia" ; Times: 1
+	Query: "catalognumber:10404 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:5805 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:ocoae genus:Sphaerodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:4947 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:2851 institutioncode:LSUMZ" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "LSU 15337" ; Times: 1
+	Query: "country:Ecuador scientificname:Anolis punctatus " ; Times: 1
+	Query: "imantodes cenchoa hastissue:1" ; Times: 1
+	Query: "genus:Coleodactylus country:&#34;Brazil&#34; AND (NOT amazonicus)" ; Times: 1
+	Query: "catalognumber:14567 institutioncode:LSUMZ" ; Times: 1
+	Query: "Crotaphytus nebrius" ; Times: 1
+	Query: "specificepithet:pholeter genus:Amphiuma" ; Times: 1
+	Query: "catalognumber:20690 institutioncode:LSUMZ" ; Times: 6
+	Query: "specificepithet:guianensis genus:Pseudogonatodes institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:smithi genus:Gekko" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Coleodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:smithi genus:Gekko country:&#34;indonesia&#34;" ; Times: 1
+	Query: "Pseudoleptodeira latifasciata" ; Times: 4
+	Query: "catalognumber:13823 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:7254 institutioncode:LSUMZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Boa constrictor " ; Times: 1
+	Query: "specificepithet:microphyllus genus:Phyllodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "LSU 8166" ; Times: 1
+	Query: "Walterinnesia aegyptia" ; Times: 3
+	Query: "Phyllodactylus peringueyi" ; Times: 1
+	Query: "20991" ; Times: 1
+	Query: "specificepithet:wirshingi genus:Phyllodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:11916 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:roosevelti genus:Sphaerodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "Lsumz 12584" ; Times: 1
+	Query: "Lsumz 12585" ; Times: 1
+	Query: "Lsumz 12586" ; Times: 2
+	Query: "lsumz 12583" ; Times: 1
+	Query: "country:Ecuador scientificname:Pseudogonatodes guianensis " ; Times: 1
+	Query: "catalognumber:8166 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSU 10156" ; Times: 2
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; hastissue:1" ; Times: 1
+	Query: "Clonophis kirtlandii" ; Times: 2
+	Query: "lsumz 12586" ; Times: 1
+	Query: "catalognumber:7307 institutioncode:LSUMZ" ; Times: 1
+	Query: "anolis sagrei and louisiana" ; Times: 1
+	Query: "specificepithet:xanthostigma genus:Lepidoblepharis institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Chiapas&#34;" ; Times: 1
+	Query: "catalognumber:880 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:14597 institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Hyla family:Hylidae country:&#34;Panama&#34; hastissue:1" ; Times: 1
+	Query: "LSU 5803" ; Times: 1
+	Query: "crotalus willardi" ; Times: 1
+	Query: "country:Ecuador scientificname:Arthrosaura reticulata " ; Times: 1
+	Query: "Sistrurus ravus" ; Times: 1
+	Query: "LSUMZ 12566" ; Times: 2
+	Query: "catalognumber:879 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:concinnatus genus:Gonatodes institutioncode:LSUMZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Kentropyx pelviceps " ; Times: 1
+	Query: "catalognumber:8401 institutioncode:LSUMZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Chironius multiventris " ; Times: 1
+	Query: "Hemiphractus fasciatus" ; Times: 4
+	Query: "country:Ecuador scientificname:Leptodeira annulata " ; Times: 1
+	Query: "catalognumber:5804 institutioncode:LSUMZ" ; Times: 2
+	Query: "sphenomorphus jobiensis new britain" ; Times: 1
+	Query: "catalognumber:7355 institutioncode:LSUMZ" ; Times: 2
+	Query: "country:Ecuador scientificname:Gonatodes concinnatus " ; Times: 1
+	Query: "Manolepis putnami" ; Times: 2
+	Query: "catalognumber:7781 institutioncode:LSUMZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Iphisa elegans " ; Times: 1
+	Query: "LSUMZ 19213" ; Times: 1
+	Query: "specificepithet:humeralis genus:Gonatodes institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:brevifrontalis genus:Ptychoglossus institutioncode:LSUMZ" ; Times: 1
+	Query: "Oligodon vntype:specimen hastissue:1" ; Times: 2
+	Query: "catalognumber:4737 institutioncode:LSUMZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Alopoglossus atriventris " ; Times: 2
+	Query: "gyalopion canum" ; Times: 2
+	Query: "catalognumber:1021 institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Pseudogonatodes country:&#34;Brazil&#34;" ; Times: 2
+	Query: "gerrhonotus liocephalus lsumz" ; Times: 1
+	Query: "genus:Grayia hastissue:1" ; Times: 2
+	Query: "anolis sagrei (louisiana)" ; Times: 1
+	Query: "LSU 2392" ; Times: 1
+	Query: "specificepithet:hasemani genus:Gonatodes institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Siren stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "Micruroides euryxanthus" ; Times: 1
+	Query: "catalognumber:5803 institutioncode:LSUMZ" ; Times: 4
+	Query: "catalognumber:7322 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSU 9342" ; Times: 1
+	Query: "specificepithet:nasicornis genus:Bitis hastissue:1" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Anolis ortonii " ; Times: 1
+	Query: "Bothriechis schlegelii Guatemala" ; Times: 1
+	Query: "specificepithet:transversalis genus:Anolis country:&#34;Brazil&#34;" ; Times: 1
+	Query: "thamnophis ordinoides stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:transversalis genus:Anolis" ; Times: 1
+	Query: "catalognumber:10403 institutioncode:LSUMZ" ; Times: 4
+	Query: "Gekko smithi" ; Times: 18
+	Query: "specificepithet:gabonica genus:Bitis hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Chironius fuscus " ; Times: 1
+	Query: "country:Ecuador scientificname:Corallus hortulanus " ; Times: 1
+	Query: "specificepithet:smithi genus:gekko country:&#34;indonesia&#34;" ; Times: 2
+	Query: "catalognumber:7356 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:2361 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:8423 institutioncode:LSUMZ" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 1023 download events in this period)
+Total number of records downloaded: 584
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 26
+	Country: Australia ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: United Kingdom ; Times: 1
+	Country: Guyana ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-11 ; Times: 2
+	Date: 2020-02-27 ; Times: 2
+	Date: 2020-02-05 ; Times: 7
+	Date: 2020-02-24 ; Times: 3
+	Date: 2020-02-10 ; Times: 4
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-06 ; Times: 3
+	Date: 2020-02-21 ; Times: 3
+	Date: 2020-02-04 ; Times: 1
+	Date: 2020-02-16 ; Times: 2
+	Date: 2020-02-15 ; Times: 4
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-09 ; Times: 3
+	Date: 2020-02-28 ; Times: 2
+	Date: 2020-02-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "Tantilla melanocephala" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "Sistrurus ravus" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "specificepithet:odoratum stateprovince:&#34;Louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:macrochelys" ; Times: 1
+	Query: "&#34;Cerastes cerastes&#34;" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "Uma scoparia" ; Times: 1
+	Query: "centrolenidae" ; Times: 1
+	Query: "silurana tropicalis" ; Times: 1
+	Query: "thamnophis ordinoides stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "Manolepis putnami" ; Times: 3
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Urosaurus graciosus" ; Times: 1
+	Query: "Oligodon vntype:specimen hastissue:1" ; Times: 2
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "class:Amphibia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "specificepithet:brachyphona genus:Pseudacris" ; Times: 2
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "guyana" ; Times: 1
+	Query: "Anolis aeneus" ; Times: 1
+	Query: "Walterinnesia aegyptia" ; Times: 2
+	Query: "thamnophis atratus stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "anilius scytale" ; Times: 1
+
+
+End of report.
