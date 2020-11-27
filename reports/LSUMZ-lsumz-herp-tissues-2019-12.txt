@@ -1,0 +1,188 @@
+Report for Institution Code LSUMZ, Resource lsumz-herp-tissues
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 108
+Number of records retrieved in searches: 633
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: South Africa ; Times: 2
+	Country: India ; Times: 4
+	Country: United States ; Times: 65
+	Country: Sweden ; Times: 20
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Thailand ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 5
+	Date: 2019-12-23 ; Times: 1
+	Date: 2019-12-29 ; Times: 1
+	Date: 2019-12-28 ; Times: 2
+	Date: 2019-12-18 ; Times: 7
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-10 ; Times: 4
+	Date: 2019-12-11 ; Times: 6
+	Date: 2019-12-13 ; Times: 1
+	Date: 2019-12-14 ; Times: 1
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-16 ; Times: 8
+	Date: 2019-12-17 ; Times: 11
+	Date: 2019-12-31 ; Times: 5
+	Date: 2019-12-09 ; Times: 3
+	Date: 2019-12-08 ; Times: 7
+	Date: 2019-12-07 ; Times: 10
+	Date: 2019-12-06 ; Times: 15
+	Date: 2019-12-05 ; Times: 4
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-03 ; Times: 5
+	Date: 2019-12-02 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Tomistoma schlegelii" ; Times: 1
+	Query: "catalognumber:22626 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:578 institutioncode:LSUMZ" ; Times: 1
+	Query: "lsumz 6085" ; Times: 1
+	Query: "genus:Duellmanohyla hastissue:1" ; Times: 1
+	Query: "specificepithet:spumarius genus:Atelopus" ; Times: 2
+	Query: "country:Ecuador scientificname:Oxyrhopus melanogenys " ; Times: 1
+	Query: "genus:Leptodrymus" ; Times: 1
+	Query: "conophis vittatus mexico" ; Times: 1
+	Query: "LSUMZ 6246" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Kentucky&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "gbifdatasetid:807747cb-d128-4029-af64-9f4ba53c4285" ; Times: 2
+	Query: "genus:Sistrurus stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "LSUMZ Micrurus Colima" ; Times: 1
+	Query: "catalognumber:18628 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:moreletii genus:crocodylus country:&#34;México&#34;" ; Times: 1
+	Query: "catalognumber:7562 institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Notechis preparations:tissue" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "catalognumber:382 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ Micrurus Honduras" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 4
+	Query: "genus:Ichthyophis specificepithet:kohtaoensis" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Ischnocnema hastissue:1" ; Times: 1
+	Query: "Dendroaspis polylepis" ; Times: 1
+	Query: "catalognumber:2137 institutioncode:LSUMZ" ; Times: 1
+	Query: "family:Myobatrachidae hastissue:1" ; Times: 1
+	Query: "genus:Colostethus hastissue:1" ; Times: 2
+	Query: "catalognumber:19910 institutioncode:LSUMZ" ; Times: 2
+	Query: "LSUMZ 19185" ; Times: 5
+	Query: "Varanus timorensis" ; Times: 3
+	Query: "LSUMZ 4337" ; Times: 1
+	Query: "Chironius multiventris" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Micrurus distans" ; Times: 1
+	Query: "catalognumber:11839 institutioncode:LSUMZ" ; Times: 5
+	Query: "specificepithet:adamanteus genus:Crotalus stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:carphophis stateprovince:&#34;oklahoma&#34; hastissue:1" ; Times: 1
+	Query: "dendroaspis polylepis" ; Times: 2
+	Query: "Elapsoidea sundevallii" ; Times: 1
+	Query: "genus:Hydrophis preparations:tissue" ; Times: 1
+	Query: "scientificname:Leptodactylus ventrimaculatus " ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "family:hemisotidae hastissue:1" ; Times: 2
+	Query: "catalognumber:10197 institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:Phyzelaphryne hastissue:1" ; Times: 1
+	Query: "specificepithet:longinasus genus:Peltophryne" ; Times: 2
+	Query: "catalognumber:14612 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:19886 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Kentucky&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "class:reptilia country:&#34;India&#34; hastissue:1" ; Times: 2
+	Query: "genus:Anolis country:&#34;Jamaica&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "genus:Micrurus stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "country:Ecuador scientificname:Boa constrictor " ; Times: 2
+	Query: "catalognumber:7846 institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Aspidomorphus institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:chironius country:&#34;Bolivia&#34;" ; Times: 2
+	Query: "Lachesis muta" ; Times: 1
+	Query: "13110" ; Times: 1
+	Query: "specificepithet:kirtlandii genus:Clonophis stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "LSU 4337" ; Times: 1
+	Query: "LSUMZ 12704" ; Times: 1
+	Query: "cyrtodactylus loriae" ; Times: 1
+	Query: "catalognumber:14606 institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:siren stateprovince:&#34;alabama&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 596 download events in this period)
+Total number of records downloaded: 427
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 17
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Belgium ; Times: 13
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 14
+	Date: 2019-12-03 ; Times: 2
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-18 ; Times: 4
+	Date: 2019-12-19 ; Times: 3
+	Date: 2019-12-10 ; Times: 2
+	Date: 2019-12-05 ; Times: 3
+	Date: 2019-12-14 ; Times: 2
+	Date: 2019-12-12 ; Times: 4
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tomistoma schlegelii" ; Times: 1
+	Query: "Micrurus distans" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "genus:micrurus country:&#34;mexico&#34;" ; Times: 1
+	Query: "family:Myobatrachidae hastissue:1" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "genus:Pleurodema specificepithet:brachyops" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Dendroaspis polylepis" ; Times: 1
+	Query: "genus:Furcifer" ; Times: 1
+	Query: "specificepithet:monticola genus:Desmognathus stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "Varanus prasinus" ; Times: 1
+	Query: "genus:Thamnophis stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "Varanus timorensis" ; Times: 1
+	Query: "Varanus gouldii" ; Times: 1
+	Query: "Anolis scriptus" ; Times: 1
+	Query: "specificepithet:tau genus:Trimorphodon" ; Times: 1
+	Query: "Varanus indicus" ; Times: 1
+	Query: "Gambelia sila" ; Times: 1
+	Query: "shinisaurus crocodilurus" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "dendroaspis polylepis" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 2
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "anolis scriptus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis hastissue:1" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis hastissue:1" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "genus:Aspidomorphus institutioncode:LSUMZ" ; Times: 1
+	Query: "Mesaspis moreletii" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
