@@ -1,0 +1,259 @@
+Report for Institution Code LSUMZ, Resource lsumz-herp-tissues
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 234
+Number of records retrieved in searches: 1061
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: United States ; Times: 97
+	Country: Italy ; Times: 2
+	Country: Peru ; Times: 8
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: India ; Times: 70
+	Country: Costa Rica ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 3
+	Country: Germany ; Times: 6
+	Country: Chile ; Times: 17
+	Country: Belgium ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 2
+	Date: 2019-11-30 ; Times: 6
+	Date: 2019-11-15 ; Times: 7
+	Date: 2019-11-14 ; Times: 15
+	Date: 2019-11-16 ; Times: 3
+	Date: 2019-11-11 ; Times: 62
+	Date: 2019-11-10 ; Times: 19
+	Date: 2019-11-13 ; Times: 8
+	Date: 2019-11-12 ; Times: 13
+	Date: 2019-11-08 ; Times: 4
+	Date: 2019-11-27 ; Times: 17
+	Date: 2019-11-28 ; Times: 5
+	Date: 2019-11-29 ; Times: 1
+	Date: 2019-11-21 ; Times: 3
+	Date: 2019-11-22 ; Times: 5
+	Date: 2019-11-23 ; Times: 1
+	Date: 2019-11-24 ; Times: 4
+	Date: 2019-11-25 ; Times: 16
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-09 ; Times: 3
+	Date: 2019-11-06 ; Times: 14
+	Date: 2019-11-07 ; Times: 5
+	Date: 2019-11-04 ; Times: 3
+	Date: 2019-11-05 ; Times: 12
+	Date: 2019-11-02 ; Times: 1
+	Date: 2019-11-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Micrurus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Thamnophis rufipunctatus 2016" ; Times: 3
+	Query: "specificepithet:scorpioides scorpioides genus:Kinosternon family:Kinosternidae hastissue:1" ; Times: 2
+	Query: "specificepithet:Dekayi genus:Storeria stateprovince:&#34;Tennessee&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 6
+	Query: "specificepithet:dussumieri genus:casarea institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Amblyodipsas preparations:tissue" ; Times: 5
+	Query: "LSUMZ 4478" ; Times: 1
+	Query: "LSUMZ 4479" ; Times: 1
+	Query: "paleosuchus trigonatus hastissue:1" ; Times: 1
+	Query: "LSUMZ 4477" ; Times: 1
+	Query: "18819" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 2
+	Query: "genus:Bungarus preparations:tissue" ; Times: 1
+	Query: "genus:Atractaspis preparations:tissue" ; Times: 14
+	Query: "genus:Lycophidion preparations:tissue" ; Times: 2
+	Query: "Uracentron flaviceps" ; Times: 7
+	Query: "specificepithet:dorbignyi genus:bachia institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "Sulawesi family:Typhlopidae" ; Times: 2
+	Query: "catalognumber:602 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:11958 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:15675 institutioncode:LSUMZ" ; Times: 7
+	Query: "genus:Macrelaps preparations:tissue" ; Times: 1
+	Query: "paleosuchus hastissue:1" ; Times: 2
+	Query: "catalognumber:15676 institutioncode:LSUMZ" ; Times: 6
+	Query: "genus:Homoroselaps preparations:tissue" ; Times: 7
+	Query: "genus:Dipsina preparations:tissue" ; Times: 6
+	Query: "genus:Psammophis preparations:tissue" ; Times: 3
+	Query: "genus:Leioheterodon preparations:tissue" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "genus:Naja preparations:tissue" ; Times: 1
+	Query: "stateprovince:Imbabura class:Reptilia " ; Times: 1
+	Query: "LSUMZ 4495" ; Times: 1
+	Query: "20532" ; Times: 1
+	Query: "genus:dibamus institutioncode:AMNH OR mcz OR mvz OR usmn OR cm OR ummz OR msum OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "catalognumber:10606 institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:buergeria hastissue:1" ; Times: 3
+	Query: "Crocodylus acutus 2016" ; Times: 4
+	Query: "catalognumber:1828 institutioncode:LSUMZ" ; Times: 1
+	Query: "Crotalus triseriatus triseriatus" ; Times: 2
+	Query: "vntype:specimen genus:Lygodactylus hastissue:1" ; Times: 1
+	Query: "catalognumber:16447 institutioncode:LSUMZ" ; Times: 4
+	Query: "LSUMZ 4489" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "dendroaspis polylepis" ; Times: 2
+	Query: "LSUMZ 4481" ; Times: 2
+	Query: "genus:Hemiphractus specificepithet:fasciatus" ; Times: 1
+	Query: "genus:Lamprophis preparations:tissue" ; Times: 1
+	Query: "LSUMZ 4480" ; Times: 1
+	Query: "Sistrurus catenatus 2016" ; Times: 4
+	Query: "genus: Dendroaspis preparations:tissue" ; Times: 1
+	Query: "specificepithet:platycephala genus:Platemys family:Chelidae hastissue:1" ; Times: 1
+	Query: "catalognumber:1068 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 4482" ; Times: 2
+	Query: "genus:Clonophis stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:platycephala genus:Platemys family:Chelidae hastissue:1" ; Times: 1
+	Query: "catalognumber:13116 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:10612 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:conraui genus:Lygodactylus" ; Times: 4
+	Query: "18905" ; Times: 2
+	Query: "LSUMZ 452" ; Times: 1
+	Query: "18906" ; Times: 1
+	Query: "pseudoleptodeira latifasciata" ; Times: 1
+	Query: "genus:Duberria preparations:tissue" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 4
+	Query: "genus:Pseudaspis preparations:tissue" ; Times: 10
+	Query: "tretanorhinus nigroluteus" ; Times: 1
+	Query: "genus:Notechis preparations:tissue" ; Times: 1
+	Query: "19197" ; Times: 1
+	Query: "specificepithet:rufescens genus:Hylophorbus" ; Times: 2
+	Query: "Varanus prasinus" ; Times: 1
+	Query: "catalognumber:947 institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:Micropechis institutioncode:LSUMZ" ; Times: 4
+	Query: "specificepithet:placata genus:exiliboa institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "genus:Rhamphiophis preparations:tissue" ; Times: 7
+	Query: "LSUMZ 4425" ; Times: 3
+	Query: "specificepithet:maculatus genus:cylindrophis institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "LSUMZ 4500" ; Times: 1
+	Query: "genus:Lygodactylus country:&#34;Ghana&#34; hastissue:1" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Chiapas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "senticolis jalisco" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:LSUMZ" ; Times: 1
+	Query: "epinephelus order:Squamata hastissue:1" ; Times: 1
+	Query: "loxocemus bicolor mexico" ; Times: 1
+	Query: "genus:Gastrotheca hastissue:1" ; Times: 1
+	Query: "16051" ; Times: 1
+	Query: "16053" ; Times: 1
+	Query: "genus:Calliophis institutioncode:LSUMZ" ; Times: 2
+	Query: "order:squamata country:&#34;kuwait&#34;" ; Times: 1
+	Query: "catalognumber:10392 institutioncode:LSUMZ" ; Times: 1
+	Query: "Crotalus triseriatus" ; Times: 2
+	Query: "Leptodactylus macrosternum" ; Times: 1
+	Query: "nerodia harteri" ; Times: 5
+	Query: "family:Viperidae genus:crotalus stateprovince:&#34;Chiapas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "LSUMZ 4488" ; Times: 1
+	Query: "specificepithet:zarudnyi genus:diplometopon institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "LSUMZ 17720" ; Times: 1
+	Query: "Imantodes hastissue:1" ; Times: 2
+	Query: "specificepithet:lacertina genus:siren stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "catalognumber:1867 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:flavescens genus:bachia institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "19720" ; Times: 2
+	Query: "specificepithet:scorpioides genus:Kinosternon family:Kinosternidae hastissue:1" ; Times: 1
+	Query: "catalognumber:8015 institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Drymarchon stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "catalognumber:13126 institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Malpolon preparations:tissue" ; Times: 2
+	Query: "uracentron flaviceps" ; Times: 1
+	Query: "genus:Psammophylax preparations:tissue" ; Times: 6
+	Query: "catalognumber:14210 institutioncode:LSUMZ" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;new ireland&#34; country:&#34;papua new guinea&#34; continent:oceania" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 1367 download events in this period)
+Total number of records downloaded: 866
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 3
+	Country: United States ; Times: 48
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-21 ; Times: 6
+	Date: 2019-11-22 ; Times: 2
+	Date: 2019-11-23 ; Times: 1
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-18 ; Times: 5
+	Date: 2019-11-26 ; Times: 2
+	Date: 2019-11-06 ; Times: 8
+	Date: 2019-11-11 ; Times: 3
+	Date: 2019-11-05 ; Times: 25
+	Date: 2019-11-02 ; Times: 1
+	Date: 2019-11-01 ; Times: 1
+	Date: 2019-11-15 ; Times: 1
+	Date: 2019-11-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:ventralis genus:ophisaurus institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:striatus genus:epicrates institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "genus:Lygodactylus" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Masticophis" ; Times: 1
+	Query: "specificepithet:burtonis genus:lialis institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:merriami genus:Sceloporus" ; Times: 1
+	Query: "genus:Pachydactylus country:&#34;Namibia&#34;" ; Times: 1
+	Query: "specificepithet:attenuatus genus:ophisaurus institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Gehyra mutilata" ; Times: 1
+	Query: "specificepithet:dussumieri genus:casarea institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:brachystoma genus:Thamnophis" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 2
+	Query: "specificepithet:undulatus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "genus:dibamus institutioncode:AMNH OR mcz OR mvz OR usmn OR cm OR ummz OR msum OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:fulvius genus:micrurus institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:alba genus:amphisbaena institutioncode:CAS OR mvz OR mcz OR cm OR ummz OR msum OR amnh OR uf OR ku OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "specificepithet:maculatus genus:causus institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:couchii genus:Thamnophis" ; Times: 1
+	Query: "Anolis equestris" ; Times: 1
+	Query: "specificepithet:zarudnyi genus:diplometopon institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:scytale genus:anilius institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "Varanus prasinus" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "LEPTODACTYLUS MYSTACEUS" ; Times: 1
+	Query: "specificepithet:unicolor genus:xenopeltis institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:carinata genus:candoia institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:placata genus:exiliboa institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:flavescens genus:bachia institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Anolis grahami" ; Times: 1
+	Query: "specificepithet:dorbignyi genus:bachia institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "Anolis pulchellus" ; Times: 1
+	Query: "specificepithet:abacura genus:farancia institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Bolitoglossa mexicana" ; Times: 1
+	Query: "specificepithet:jicari genus:lialis institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:maculatus genus:cylindrophis institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:maculatum genus:ambystoma hastissue:1" ; Times: 1
+	Query: "genus:Malpolon preparations:tissue" ; Times: 1
+	Query: "specificepithet:floridana genus:rhineura institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:haetianus genus:tropidophis institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "Enyalioides laticeps" ; Times: 1
+	Query: "genus:Pachydactylus country:&#34;South Africa&#34;" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Masticophis" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:bicolor genus:loxocemus institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Laticauda" ; Times: 1
+	Query: "genus:Psammophis preparations:tissue" ; Times: 2
+	Query: "anilius scytale" ; Times: 1
+
+
+End of report.
