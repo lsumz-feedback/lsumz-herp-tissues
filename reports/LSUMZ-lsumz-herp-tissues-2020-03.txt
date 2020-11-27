@@ -1,0 +1,267 @@
+Report for Institution Code LSUMZ, Resource lsumz-herp-tissues
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 145
+Number of records retrieved in searches: 773
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: Ukraine ; Times: 6
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 23
+	Country: Finland ; Times: 2
+	Country: United States ; Times: 82
+	Country: Germany ; Times: 10
+	Country: Spain ; Times: 1
+	Country: Puerto Rico ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-30 ; Times: 2
+	Date: 2020-03-31 ; Times: 6
+	Date: 2020-03-02 ; Times: 3
+	Date: 2020-03-18 ; Times: 1
+	Date: 2020-03-19 ; Times: 7
+	Date: 2020-03-23 ; Times: 11
+	Date: 2020-03-15 ; Times: 2
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-13 ; Times: 3
+	Date: 2020-03-10 ; Times: 12
+	Date: 2020-03-27 ; Times: 10
+	Date: 2020-03-26 ; Times: 12
+	Date: 2020-03-25 ; Times: 12
+	Date: 2020-03-24 ; Times: 3
+	Date: 2020-03-09 ; Times: 17
+	Date: 2020-03-22 ; Times: 2
+	Date: 2020-03-21 ; Times: 2
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-05 ; Times: 5
+	Date: 2020-03-04 ; Times: 2
+	Date: 2020-03-07 ; Times: 1
+	Date: 2020-03-06 ; Times: 4
+	Date: 2020-03-01 ; Times: 11
+	Date: 2020-03-03 ; Times: 9
+	Date: 2020-03-28 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:anolis stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:americanus genus:bufo stateprovince:&#34;louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "13715" ; Times: 1
+	Query: "LSUMZ 20877" ; Times: 1
+	Query: "LSUMZ 1440" ; Times: 1
+	Query: "genus:Contia stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "LSUMZ 922" ; Times: 2
+	Query: "specificepithet:sauritus genus:Thamnophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Brazil&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "specificepithet:ecpleopus genus:Neusticurus country:Brazil" ; Times: 1
+	Query: "LSUMZ 13633" ; Times: 1
+	Query: "Crotalus vegrandis" ; Times: 1
+	Query: "specificepithet:braminus genus:ramphotyphlops stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Anolis cooki" ; Times: 1
+	Query: "Anolis cuvieri" ; Times: 1
+	Query: "family:Leptotyphlopidae class:reptilia institutioncode:LSUMZ" ; Times: 1
+	Query: "Anolis carpenteri" ; Times: 2
+	Query: "Lygodactylus conraui" ; Times: 1
+	Query: "Elapsoidea sundevallii" ; Times: 1
+	Query: "country:Ecuador scientificname:Clelia clelia " ; Times: 1
+	Query: "specificepithet:taxispilota genus:Nerodia stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Spilotes pullatus " ; Times: 1
+	Query: "&#34;nerodia taxispilota&#34; vntype:specimen stateprovince:&#34;Florida&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Crotalus molossus texas" ; Times: 2
+	Query: "Hemachatus haemachatus" ; Times: 1
+	Query: "nerodia taxispilota vntype:specimen country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Anolis angusticeps" ; Times: 2
+	Query: "specificepithet:sagrei genus:anolis stateprovince:&#34;louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:ramphotyphlops stateprovince:&#34;louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "Anolis monticola" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "genus:Masticophis stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 2
+	Query: "specificepithet:melanocephala genus:tantilla hastissue:1" ; Times: 2
+	Query: "specificepithet:ruber genus:pseudotriton stateprovince:&#34;louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:obsoleta genus:Pantherophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Anolis mestrei" ; Times: 1
+	Query: "genus:siren stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "ambystoma jeffersonianum stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "Anolis luteogularis" ; Times: 1
+	Query: "Crotaphytus reticulatus" ; Times: 1
+	Query: "specificepithet:sagrei genus:anolis stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "crotalus vegrandis" ; Times: 9
+	Query: "Anolis extremus" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "LSU 741" ; Times: 1
+	Query: "21297" ; Times: 1
+	Query: "uracentron" ; Times: 1
+	Query: "genus:Pseudobranchus stateprovince:&#34;Alabama&#34;" ; Times: 4
+	Query: "LSUMZ 8401" ; Times: 1
+	Query: "Anolis allogus" ; Times: 2
+	Query: "Anolis lineatus" ; Times: 1
+	Query: "genus:carphophis stateprovince:&#34;louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUmz 741" ; Times: 1
+	Query: "catalognumber:11271 institutioncode:LSUMZ" ; Times: 1
+	Query: "Celestus enneagrammus" ; Times: 1
+	Query: "genus:Seminatrix stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:guttata genus:Pantherophis" ; Times: 1
+	Query: "specificepithet:valeriae genus:virginia stateprovince:&#34;louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Eunectes murinus " ; Times: 1
+	Query: "specificepithet:calligaster genus:lampropeltis stateprovince:&#34;louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "Anolis ferreus" ; Times: 1
+	Query: "ambystoma opacum mississippi" ; Times: 1
+	Query: "crocodylus siamensis" ; Times: 1
+	Query: "LSU 12798" ; Times: 2
+	Query: "lsumz 13691" ; Times: 1
+	Query: "lsumz 13690" ; Times: 2
+	Query: "country:Ecuador scientificname:Chironius multiventris " ; Times: 1
+	Query: "specificepithet:Ensatus genus:Dicamptodon hastissue:1" ; Times: 3
+	Query: "Anolis bonairensis" ; Times: 1
+	Query: "LSU 7658" ; Times: 2
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "LSU leptophis diplotropis" ; Times: 1
+	Query: "genus:pseudobranchus stateprovince:&#34;alabama&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Buergeria hastissue:1" ; Times: 2
+	Query: "specificepithet:ensatus genus:Dicamptodon hastissue:1" ; Times: 1
+	Query: "genus:thecadactylus hastissue:1" ; Times: 1
+	Query: "genus:lachesis hastissue:1" ; Times: 1
+	Query: "specificepithet:angulatus genus:Helicops hastissue:1" ; Times: 3
+	Query: "Anolis christophei" ; Times: 1
+	Query: "specificepithet:slowinskii genus:Pantherophis" ; Times: 1
+	Query: "Anolis occultus" ; Times: 1
+	Query: "&#34;anolis trachyderma&#34;" ; Times: 1
+	Query: "LSUMZ 15392" ; Times: 1
+	Query: "specificepithet:kisatchie genus:Plethodon" ; Times: 1
+	Query: "genus:ramphotyphlops institutioncode:LSUMZ" ; Times: 1
+	Query: "Dendroaspis polylepis" ; Times: 1
+	Query: "specificepithet:pholeter stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:bairdi genus:Pantherophis" ; Times: 1
+	Query: "Anolis equestris" ; Times: 1
+	Query: "catalognumber:12594 institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:pseudobranchus stateprovince:&#34;alabama&#34;" ; Times: 2
+	Query: "Anolis biporcatus" ; Times: 2
+	Query: "LSU 8401" ; Times: 1
+	Query: "specificepithet:nasicornis genus:Bitis hastissue:1" ; Times: 1
+	Query: "Anolis agassizi" ; Times: 3
+	Query: "LSUmz 17589" ; Times: 2
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:braminus genus:ramphotyphlops stateprovince:&#34;florida&#34; country:&#34;United states&#34;" ; Times: 1
+	Query: "hemiphractus fasciatus" ; Times: 1
+	Query: "Anolis garmani" ; Times: 1
+	Query: "lsumz 15835" ; Times: 1
+	Query: "lsumz 15836" ; Times: 1
+	Query: "Anolis luciae" ; Times: 1
+	Query: "genus:Pseudaspis preparations:Tissue" ; Times: 2
+	Query: "genus:atractus hastissue:1" ; Times: 3
+	Query: "lsumz 15392" ; Times: 1
+	Query: "genus:Pseudobranchus stateprovince:&#34;Georgia&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 64 (out of 853 download events in this period)
+Total number of records downloaded: 1920
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Cuba ; Times: 1
+	Country: United States ; Times: 54
+	Country: Belgium ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-30 ; Times: 2
+	Date: 2020-03-31 ; Times: 1
+	Date: 2020-03-19 ; Times: 3
+	Date: 2020-03-16 ; Times: 2
+	Date: 2020-03-09 ; Times: 3
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-13 ; Times: 8
+	Date: 2020-03-10 ; Times: 5
+	Date: 2020-03-11 ; Times: 3
+	Date: 2020-03-17 ; Times: 3
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-25 ; Times: 3
+	Date: 2020-03-24 ; Times: 2
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-20 ; Times: 4
+	Date: 2020-03-05 ; Times: 4
+	Date: 2020-03-04 ; Times: 5
+	Date: 2020-03-06 ; Times: 2
+	Date: 2020-03-01 ; Times: 1
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-02 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:blandingii" ; Times: 1
+	Query: "pseudotriton" ; Times: 1
+	Query: "specificepithet:aestivus genus:Opheodrys" ; Times: 1
+	Query: "Trachycephalus" ; Times: 1
+	Query: "&#34;anolis trachyderma&#34;" ; Times: 2
+	Query: "specificepithet:adamanteus genus:crotalus" ; Times: 1
+	Query: "genus:Masticophis stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "specificepithet:flavescens genus:Kinosternon" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "specificepithet:guttata genus:Pantherophis" ; Times: 1
+	Query: "specificepithet:kisatchie genus:Plethodon" ; Times: 1
+	Query: "shinisaurus" ; Times: 1
+	Query: "genus:charina" ; Times: 1
+	Query: "specificepithet:alterna genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "genus:Masticophis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:bairdi genus:Pantherophis" ; Times: 1
+	Query: "genus:Drymarchon" ; Times: 2
+	Query: "specificepithet:subocularis genus:Bogertophis" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "specificepithet:speciosus family:Bufonidae" ; Times: 1
+	Query: "bothrops asper" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis" ; Times: 1
+	Query: "genus:Trachycephalus family:Hylidae" ; Times: 1
+	Query: "genus:Sistrurus" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;Colima&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pholeter genus:Amphiuma" ; Times: 1
+	Query: "genus:Pseudemys stateprovince:&#34;Louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "Shinisaurus" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:emoryi" ; Times: 1
+	Query: "Nerodia taxispilota" ; Times: 1
+	Query: "specificepithet:palustris family:Ranidae" ; Times: 1
+	Query: "dicamptodon" ; Times: 1
+	Query: "genus:Hypsiglena" ; Times: 1
+	Query: "pseudotriton montanus" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis" ; Times: 1
+	Query: "genus:Cemophora" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:calligaster genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:means genus:Amphiuma" ; Times: 1
+	Query: "specificepithet:lucifuga genus:Eurycea" ; Times: 1
+	Query: "genus:Stilosoma" ; Times: 1
+	Query: "genus:Amphiuma" ; Times: 1
+	Query: "specificepithet:punctatus genus:Bufo" ; Times: 1
+	Query: "specificepithet:harteri" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "genus:Sonora" ; Times: 1
+	Query: "specificepithet:slowinskii genus:Pantherophis" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:Alligator country:&#34;United States&#34;" ; Times: 1
+	Query: "pseudotriton ruber" ; Times: 1
+	Query: "genus:Farancia" ; Times: 1
+	Query: "Dicamptodon tenebrosus" ; Times: 1
+	Query: "specificepithet:intermedia genus:Siren" ; Times: 1
+	Query: "amphiuma pholeter" ; Times: 1
+	Query: "anilius scytale" ; Times: 1
+
+
+End of report.
