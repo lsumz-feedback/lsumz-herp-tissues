@@ -1,0 +1,208 @@
+Report for Institution Code LSUMZ, Resource lsumz-herp-tissues
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 112
+Number of records retrieved in searches: 557
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 35
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: India ; Times: 5
+	Country: France ; Times: 3
+	Country: United States ; Times: 56
+	Country: Sweden ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Hong Kong ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-08 ; Times: 2
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-25 ; Times: 5
+	Date: 2019-10-24 ; Times: 4
+	Date: 2019-10-01 ; Times: 5
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-02 ; Times: 13
+	Date: 2019-10-04 ; Times: 14
+	Date: 2019-10-07 ; Times: 17
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-22 ; Times: 6
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-18 ; Times: 3
+	Date: 2019-10-13 ; Times: 3
+	Date: 2019-10-10 ; Times: 4
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-16 ; Times: 7
+	Date: 2019-10-17 ; Times: 8
+	Date: 2019-10-31 ; Times: 3
+	Date: 2019-10-15 ; Times: 9
+	Date: 2019-10-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:4792 institutioncode:LSUMZ" ; Times: 2
+	Query: "LSUMZ 10455" ; Times: 2
+	Query: "Thamnophis rufipunctatus 2016" ; Times: 1
+	Query: "genus:Hydrodynastes" ; Times: 1
+	Query: "genus:Polychrus country:&#34;Trinidad&#34;" ; Times: 2
+	Query: "specificepithet:striatula order:squamata stateprovince:&#34;florida&#34;" ; Times: 2
+	Query: "catalognumber:14708 institutioncode:LSUMZ" ; Times: 1
+	Query: "Elaphe quatuorlineata" ; Times: 1
+	Query: "LSUMZ 1379" ; Times: 1
+	Query: "Dermophis parviceps" ; Times: 2
+	Query: "genus:Rhinobothryum hastissue:1" ; Times: 1
+	Query: "salvadora colima" ; Times: 1
+	Query: "genus:Hydrops hastissue:1" ; Times: 1
+	Query: "thamnophis melanogaster state of mexico" ; Times: 2
+	Query: "genus:Gymnophthalmus hastissue:1" ; Times: 1
+	Query: "catalognumber:373 institutioncode:LSUMZ" ; Times: 2
+	Query: "LSUMZ 4458" ; Times: 1
+	Query: "genus:Helicops hastissue:1" ; Times: 1
+	Query: "LSUMZ 20547" ; Times: 1
+	Query: "LSUMZ 20520" ; Times: 1
+	Query: "LSUMZ 14270" ; Times: 1
+	Query: "specificepithet:marinus country:&#34;Papua New Guinea&#34;" ; Times: 1
+	Query: "Rhinobothryum lentiginosum" ; Times: 1
+	Query: "genus:Sceloporus stateprovince:&#34;Mississippi&#34; hastissue:1" ; Times: 3
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "chamaeleolis" ; Times: 1
+	Query: "Philodryas patagoniensis" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Alabama&#34; hastissue:1" ; Times: 1
+	Query: "genus:caiman country:&#34;united&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:404 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:11839 institutioncode:LSUMZ" ; Times: 1
+	Query: "lsumz 4458" ; Times: 2
+	Query: "genus:Sphaerodactylus hastissue:1" ; Times: 2
+	Query: "catalognumber:5857 institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:Toxicodryas hastissue:1" ; Times: 1
+	Query: "kirtlandii basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Litoria arfakiana" ; Times: 1
+	Query: "leptodeira punctata sinaloa" ; Times: 1
+	Query: "Sistrurus catenatus 2016" ; Times: 1
+	Query: "rhinobothryum lentiginosum" ; Times: 3
+	Query: "genus:pelobates hastissue:1" ; Times: 1
+	Query: "genus:varanus country:&#34;egypt&#34;" ; Times: 2
+	Query: "paleosuchus hastissue:1" ; Times: 1
+	Query: "genus:Polychrus hastissue:1" ; Times: 1
+	Query: "imantodes hastissue:1" ; Times: 1
+	Query: "specificepithet:simus genus:Heterodon stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Litoria micromembrana" ; Times: 1
+	Query: "Crocodylus acutus 2016" ; Times: 1
+	Query: "genus:Polychrus country:&#34;trinidad&#34;" ; Times: 14
+	Query: "specificepithet:angulatus genus:Helicops hastissue:1" ; Times: 2
+	Query: "arborea Hyla" ; Times: 4
+	Query: "genus:siren institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;North Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "uracentron flaviceps" ; Times: 4
+	Query: "catalognumber:4737 institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:Hydrodynastes hastissue:1" ; Times: 5
+	Query: "genus:Pseudoeryx hastissue:1" ; Times: 1
+	Query: "specificepithet:niloticus genus:varanus country:&#34;egypt&#34;" ; Times: 1
+	Query: "catalognumber:1827 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:sirtalis genus:thamnophis class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Imantodes hastissue:1" ; Times: 1
+	Query: "genus:Psammophis preparations:tissue" ; Times: 1
+	Query: "catalognumber:380 institutioncode:LSUMZ" ; Times: 4
+	Query: "genus:Psammophylax preparations:tissue" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 64 (out of 1308 download events in this period)
+Total number of records downloaded: 3377
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: United States ; Times: 30
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 13
+	Country: Philippines ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-21 ; Times: 3
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-26 ; Times: 2
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-03 ; Times: 3
+	Date: 2019-10-02 ; Times: 6
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-07 ; Times: 2
+	Date: 2019-10-06 ; Times: 1
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-19 ; Times: 2
+	Date: 2019-10-13 ; Times: 1
+	Date: 2019-10-10 ; Times: 3
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-17 ; Times: 4
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-15 ; Times: 7
+	Date: 2019-10-28 ; Times: 5
+	Date: 2019-10-30 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "Bufonidae vntype:specimen hastissue:1" ; Times: 1
+	Query: "sceloporus clarkii" ; Times: 4
+	Query: "genus:Sceloporus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "genus:Polychrus country:&#34;Trinidad&#34;" ; Times: 1
+	Query: "coleodactylus amazonicus" ; Times: 1
+	Query: "genus:Micrurus country:&#34;México&#34;" ; Times: 1
+	Query: "genus:Chiasmocleis" ; Times: 1
+	Query: "Dermophis parviceps" ; Times: 2
+	Query: "eretmochelys imbricata" ; Times: 1
+	Query: "reptilia stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Hydrops hastissue:1" ; Times: 1
+	Query: "genus:Morelia hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Louisiana&#34; hastissue:1" ; Times: 1
+	Query: "sceloporus Clarkii" ; Times: 1
+	Query: "genus:Helicops hastissue:1" ; Times: 1
+	Query: "genus:caiman hastissue:1" ; Times: 1
+	Query: "Bufonidae vntype:specimen institutioncode:LSUMZ" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "genus:Sceloporus stateprovince:&#34;Mississippi&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Alabama&#34; hastissue:1" ; Times: 1
+	Query: "Leptopelis modestus" ; Times: 1
+	Query: "vntype:specimen specificepithet:undulatus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "Hyperolius concolor" ; Times: 2
+	Query: "gonatodes humeralis" ; Times: 1
+	Query: "Gambelia sila" ; Times: 1
+	Query: "genus:Anolis hastissue:1" ; Times: 1
+	Query: "silurana tropicalis" ; Times: 1
+	Query: "specificepithet:septemvittata genus:Regina stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "Leptophis diplotropis" ; Times: 2
+	Query: "genus:Phyllomedusa" ; Times: 2
+	Query: "SCELOPORUS CLARKII" ; Times: 3
+	Query: "Squamata country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Gyalopion canum" ; Times: 1
+	Query: "Sceloporus clarkii" ; Times: 2
+	Query: "genus:Polychrus country:&#34;trinidad&#34;" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 1
+	Query: "Varanus salvator" ; Times: 2
+	Query: "genus:Ceratophrys" ; Times: 2
+	Query: "genus:Hydrodynastes hastissue:1" ; Times: 1
+	Query: "genus:Pseudoeryx hastissue:1" ; Times: 1
+	Query: "sceloporus torquatus" ; Times: 3
+	Query: "genus:Pleurodema" ; Times: 2
+	Query: "genus:bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "testudo graeca" ; Times: 1
+
+
+End of report.
