@@ -1,0 +1,236 @@
+Report for Institution Code LSUMZ, Resource lsumz-herp-tissues
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 150
+Number of records retrieved in searches: 1000
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 5
+	Country: Ireland ; Times: 6
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 4
+	Country: Finland ; Times: 6
+	Country: Peru ; Times: 6
+	Country: United States ; Times: 72
+	Country: Germany ; Times: 18
+	Country: Ecuador ; Times: 16
+	Country: Colombia ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 2
+	Date: 2020-07-08 ; Times: 2
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-20 ; Times: 10
+	Date: 2020-07-27 ; Times: 3
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-25 ; Times: 4
+	Date: 2020-07-24 ; Times: 3
+	Date: 2020-07-01 ; Times: 2
+	Date: 2020-07-03 ; Times: 5
+	Date: 2020-07-02 ; Times: 5
+	Date: 2020-07-04 ; Times: 2
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-06 ; Times: 3
+	Date: 2020-07-29 ; Times: 11
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-19 ; Times: 2
+	Date: 2020-07-12 ; Times: 5
+	Date: 2020-07-13 ; Times: 6
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-11 ; Times: 3
+	Date: 2020-07-16 ; Times: 11
+	Date: 2020-07-31 ; Times: 11
+	Date: 2020-07-14 ; Times: 2
+	Date: 2020-07-17 ; Times: 2
+	Date: 2020-07-22 ; Times: 5
+	Date: 2020-07-15 ; Times: 3
+	Date: 2020-07-28 ; Times: 3
+	Date: 2020-07-30 ; Times: 40
+
+List of queries that retrieved data from the resource: 
+	Query: "Eurycea longicauda" ; Times: 2
+	Query: "catalognumber:10198 institutioncode:LSUMZ" ; Times: 3
+	Query: "Micrurus hemprichii peru" ; Times: 1
+	Query: "Plethodon mississippi" ; Times: 1
+	Query: "anolis valencienni" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Zacapa&#34; country:&#34;Guatemala&#34;" ; Times: 4
+	Query: "catalognumber:11778 institutioncode:LSUMZ" ; Times: 1
+	Query: "Oxyrhopus melanogenys Ecuador" ; Times: 1
+	Query: "lachesis muta peru" ; Times: 2
+	Query: "country:Ecuador scientificname:Clelia clelia " ; Times: 1
+	Query: "Plethodon grobmani" ; Times: 2
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "micrurus surinamensis" ; Times: 15
+	Query: "Plethodon kisatchie" ; Times: 2
+	Query: "Bolitoglossa mexicana" ; Times: 3
+	Query: "Plethodon websteri" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 2
+	Query: "Micrurus albicinctus" ; Times: 1
+	Query: "Bolitoglossa rufescens" ; Times: 1
+	Query: "exiliboa placata" ; Times: 1
+	Query: "anilius" ; Times: 1
+	Query: "Eurycea lucifuga" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 4
+	Query: "Eurycea guttolineata" ; Times: 1
+	Query: "genus:Siphonops specificepithet:annulatus" ; Times: 2
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 1
+	Query: "catalognumber:19863 institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "Hyla avivoca" ; Times: 2
+	Query: "Crocodylus acutus 2016" ; Times: 2
+	Query: "specificepithet:exsul genus:Thamnophis" ; Times: 6
+	Query: "Eurycea cirrigera" ; Times: 1
+	Query: "Clonophis kirtlandii" ; Times: 2
+	Query: "specificepithet:loriae genus:cyrtodactylus" ; Times: 1
+	Query: "genus:dibamus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:sebae genus:Python preparations:tissue" ; Times: 2
+	Query: "Buergeria buergeri" ; Times: 2
+	Query: "LSUMz 11711" ; Times: 1
+	Query: "specificepithet:attenuatus genus:ophisaurus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Leptodactylus hastissue:1" ; Times: 1
+	Query: "LSUMz 5694" ; Times: 2
+	Query: "crotalus willardi" ; Times: 1
+	Query: "LSUMz 1414" ; Times: 1
+	Query: "Rhacophorus schlegelii" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "Desmognathus marmoratus" ; Times: 1
+	Query: "genus:Thamnophis stateprovince:&#34;Guanajuato&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:niloticus genus:varanus hastissue:1" ; Times: 1
+	Query: "Eurycea multiplicata" ; Times: 1
+	Query: "Batrachoseps pacificus" ; Times: 1
+	Query: "Bolitoglossa lincolni" ; Times: 3
+	Query: "corallus caninus" ; Times: 5
+	Query: "Bothrops microphthalmus peru" ; Times: 1
+	Query: "specificepithet:molurus genus:Python preparations:tissue" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "drepanoides anomalus" ; Times: 1
+	Query: "Desmognathus quadramaculatus" ; Times: 2
+	Query: "Desmognathus apalachicolae" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 2
+	Query: "Anolis transversalis" ; Times: 2
+	Query: "genus:Aspidomorphus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:cyrtopsis genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Thamnophis stateprovince:&#34;Jalisco&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "LSUMZ 15393" ; Times: 1
+	Query: "catalognumber:10197 institutioncode:LSUMZ" ; Times: 2
+	Query: "LSUMz 11802" ; Times: 2
+	Query: "Bolitoglossa peruviana" ; Times: 3
+	Query: "specificepithet:hortulanus genus:Corallus country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "LSUMZ 17519" ; Times: 2
+	Query: "atractus flammigerus" ; Times: 2
+	Query: "genus:Anilius preparations:tissue" ; Times: 1
+	Query: "class:Amphibia &#34;Peltophryne longinasus&#34;" ; Times: 1
+	Query: "genus:Dendroaspis preparations:tissue" ; Times: 1
+	Query: "specificepithet:minor genus:Sternotherus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Peltophryne longinasus" ; Times: 1
+	Query: "Eurycea aquatica" ; Times: 3
+	Query: "class:Reptilia stateprovince:&#34;Zacapa&#34; country:&#34;Guatemala&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:salvadora hastissue:1" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "country:Ecuador scientificname:Arthrosaura reticulata " ; Times: 1
+	Query: "hemiphractus fasciatus" ; Times: 1
+	Query: "Atractus collaris peru" ; Times: 2
+	Query: "Plethodon serratus" ; Times: 1
+	Query: "specificepithet:fuscus genus:Chironius country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Plethodon chlorobryonis" ; Times: 1
+	Query: "Eurycea quadridigitata" ; Times: 1
+	Query: "LSUMZ 21255" ; Times: 2
+	Query: "Atractus snethlageae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 940 download events in this period)
+Total number of records downloaded: 8939
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Australia ; Times: 5
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 25
+	Country: Guatemala ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: South Korea ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 3
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-27 ; Times: 4
+	Date: 2020-07-25 ; Times: 3
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-16 ; Times: 2
+	Date: 2020-07-13 ; Times: 7
+	Date: 2020-07-03 ; Times: 2
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-31 ; Times: 8
+	Date: 2020-07-14 ; Times: 2
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-20 ; Times: 7
+	Date: 2020-07-07 ; Times: 2
+	Date: 2020-07-05 ; Times: 1
+	Date: 2020-07-06 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Amphibia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:coccifer family:bufonidae" ; Times: 1
+	Query: "Clelia clelia" ; Times: 2
+	Query: "Trimorphodon tau" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "chironius carinatus" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "Scincella gemmingeri" ; Times: 1
+	Query: "elapidae" ; Times: 1
+	Query: "specificepithet:coniferus family:bufonidae" ; Times: 1
+	Query: "specificepithet:luetkenii family:bufonidae" ; Times: 1
+	Query: "class:Amphibia country:&#34;Peru&#34;" ; Times: 2
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "Lamprophiidae" ; Times: 1
+	Query: "class:Amphibia &#34;Peltophryne longinasus&#34;" ; Times: 1
+	Query: "specificepithet:enyo genus:Crotalus" ; Times: 1
+	Query: "specificepithet:marmoratus genus:desmognathus" ; Times: 1
+	Query: "Chironius multiventris" ; Times: 1
+	Query: "sonora semiannulata texas" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:hortulanus genus:Corallus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Elachistocleis" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:hernandezi genus:phrynosoma" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "Gastrotheca marsupiata" ; Times: 1
+	Query: "genus:notophthalmus stateprovince:&#34;wisconsin&#34;" ; Times: 1
+	Query: "specificepithet:bocourti family:bufonidae" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "Chironius fuscus" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:valliceps family:bufonidae" ; Times: 1
+	Query: "specificepithet:fuscus genus:Chironius country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "specificepithet:nebulifer family:bufonidae" ; Times: 1
+	Query: "Chironius scurrulus" ; Times: 2
+	Query: "specificepithet:cenchoa genus:Imantodes country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "country:&#34;korea&#34;" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Leptodactylus hastissue:1" ; Times: 1
+	Query: "Chironius exoletus" ; Times: 1
+	Query: "class:Amphibia country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "exiliboa placata" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+	Query: "genus:Oxyrhopus country:&#34;Peru&#34;" ; Times: 1
+
+
+End of report.
