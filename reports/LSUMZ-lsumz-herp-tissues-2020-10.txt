@@ -1,0 +1,225 @@
+Report for Institution Code LSUMZ, Resource lsumz-herp-tissues
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 136
+Number of records retrieved in searches: 925
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 21
+	Country: Portugal ; Times: 9
+	Country: South Africa ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 86
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-19 ; Times: 2
+	Date: 2020-10-08 ; Times: 31
+	Date: 2020-10-12 ; Times: 25
+	Date: 2020-10-13 ; Times: 17
+	Date: 2020-10-11 ; Times: 1
+	Date: 2020-10-16 ; Times: 1
+	Date: 2020-10-31 ; Times: 4
+	Date: 2020-10-14 ; Times: 1
+	Date: 2020-10-15 ; Times: 1
+	Date: 2020-10-28 ; Times: 1
+	Date: 2020-10-23 ; Times: 8
+	Date: 2020-10-22 ; Times: 7
+	Date: 2020-10-21 ; Times: 5
+	Date: 2020-10-20 ; Times: 3
+	Date: 2020-10-27 ; Times: 3
+	Date: 2020-10-26 ; Times: 1
+	Date: 2020-10-25 ; Times: 3
+	Date: 2020-10-01 ; Times: 5
+	Date: 2020-10-29 ; Times: 5
+	Date: 2020-10-02 ; Times: 2
+	Date: 2020-10-05 ; Times: 2
+	Date: 2020-10-04 ; Times: 3
+	Date: 2020-10-07 ; Times: 2
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Sibon hastissue:1" ; Times: 1
+	Query: "LSUMZ 3711" ; Times: 1
+	Query: "LSUMZ 10637" ; Times: 1
+	Query: "genus:Tiliqua hastissue:1" ; Times: 1
+	Query: "Stegonotus muelleri" ; Times: 3
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "genus:Drymarchon stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:wirshingi genus:Phyllodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:micrurus ruatanus institutioncode:LSUMZ hastissue:1" ; Times: 2
+	Query: "paleosuchus trigonatus" ; Times: 4
+	Query: "genus:bogertophis stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Hemiphractus scutatus" ; Times: 1
+	Query: "LSUMZ 8071" ; Times: 1
+	Query: "genus:adelophis hastissue:1" ; Times: 1
+	Query: "catalognumber:10197 institutioncode:LSUMZ" ; Times: 2
+	Query: "genus: Atelopus hastissue:1" ; Times: 1
+	Query: "LSUMZ 9597" ; Times: 1
+	Query: "Uropeltis phillipsi" ; Times: 2
+	Query: "genus: conophis hastissue:1" ; Times: 1
+	Query: "genus: Thamnodynastes hastissue:1" ; Times: 3
+	Query: "LSUMZ 16105" ; Times: 1
+	Query: "genus:pantherophis stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "genus:micrurus institutioncode:LSUMZ" ; Times: 2
+	Query: "country:Ecuador scientificname:Eunectes murinus " ; Times: 1
+	Query: "genus:micrurus institutioncode:LSUMZ hastissue:1" ; Times: 2
+	Query: "Anomalepididae" ; Times: 1
+	Query: "specificepithet:trachyderma genus:Anolis institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:micrurus nigrocinctus institutioncode:LSUMZ hastissue:1" ; Times: 3
+	Query: "catalognumber:10459 institutioncode:LSUMZ" ; Times: 2
+	Query: "Dendroaspis polylepis" ; Times: 1
+	Query: "vntype:specimen specificepithet:longicauda genus:Eurycea stateprovince:&#34;Alabama&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "genus: alsophis hastissue:1" ; Times: 1
+	Query: "specificepithet:bairdi genus:Pantherophis" ; Times: 2
+	Query: "genus: pseudoeryx hastissue:1" ; Times: 1
+	Query: "genus: manolepis hastissue:1" ; Times: 1
+	Query: "genus:Osteocephalus specificepithet:cabrerai" ; Times: 17
+	Query: "genus: Coniophanes hastissue:1" ; Times: 1
+	Query: "genus: Pseudoleptodeira hastissue:1" ; Times: 1
+	Query: "brazil bothrops atrox" ; Times: 2
+	Query: "genus:fordonia" ; Times: 1
+	Query: "lsumz 9558" ; Times: 2
+	Query: "genus:Senticolis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus: Tretanorhinus hastissue:1" ; Times: 2
+	Query: "dendroaspis polylepis" ; Times: 1
+	Query: "genus: thamnodynastes hastissue:1" ; Times: 1
+	Query: "specificepithet:pullatus genus:Spilotes hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:longicauda genus:Eurycea stateprovince:&#34;Mississippi&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "genus: Rhadinaea hastissue:1" ; Times: 4
+	Query: "genus: Alsophis hastissue:1" ; Times: 2
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "genus: Pseudoeryx hastissue:1" ; Times: 2
+	Query: "genus: Manolepis hastissue:1" ; Times: 2
+	Query: "genus: Conophis hastissue:1" ; Times: 2
+	Query: "Crotalus vegrandis" ; Times: 1
+	Query: "Sceloporus olivaceous" ; Times: 2
+	Query: "specificepithet:punctatus genus:Anolis country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "LSUMz 11774" ; Times: 1
+	Query: "genus: hypsirhynchus hastissue:1" ; Times: 1
+	Query: "genus: Hydromorphus hastissue:1" ; Times: 2
+	Query: "LSU 4921" ; Times: 3
+	Query: "LSUMZ 11195" ; Times: 2
+	Query: "Anolis trachyderma institutioncode:lsumz" ; Times: 1
+	Query: "LSU 4523" ; Times: 1
+	Query: "adelophis" ; Times: 1
+	Query: "new britain porosus" ; Times: 1
+	Query: "genus: tretanorhinus hastissue:1" ; Times: 1
+	Query: "genus: hydrops hastissue:1" ; Times: 1
+	Query: "hydromorphus" ; Times: 1
+	Query: "genus: Xenopholis hastissue:1" ; Times: 3
+	Query: "Paleosuchus trigonatus" ; Times: 2
+	Query: "catalognumber:17589 institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Dipsas hastissue:1" ; Times: 1
+	Query: "genus: rhadinaea hastissue:1" ; Times: 1
+	Query: "genus: hydromorphus hastissue:1" ; Times: 1
+	Query: "specificepithet:microphyllus genus:Phyllodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Naja nigricollis" ; Times: 1
+	Query: "genus:Micrurus institutioncode:LSUMZ" ; Times: 1
+	Query: "genus: Hydrops hastissue:1" ; Times: 2
+	Query: "specificepithet:guttolineata genus:Eurycea institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Hydromorphus hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:longicauda genus:Eurycea stateprovince:&#34;Georgia&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "eretmochelys imbricata hastissue:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 57 (out of 1521 download events in this period)
+Total number of records downloaded: 4995
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 28
+	Country: Australia ; Times: 1
+	Country: Samoa ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 9
+	Date: 2020-10-08 ; Times: 2
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-01 ; Times: 4
+	Date: 2020-10-05 ; Times: 10
+	Date: 2020-10-03 ; Times: 1
+	Date: 2020-10-02 ; Times: 4
+	Date: 2020-10-16 ; Times: 1
+	Date: 2020-10-21 ; Times: 3
+	Date: 2020-10-07 ; Times: 5
+	Date: 2020-10-06 ; Times: 1
+	Date: 2020-10-12 ; Times: 1
+	Date: 2020-10-30 ; Times: 5
+	Date: 2020-10-14 ; Times: 1
+	Date: 2020-10-28 ; Times: 2
+	Date: 2020-10-15 ; Times: 2
+	Date: 2020-10-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "order:caudata stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "desmognathus auriculatus" ; Times: 1
+	Query: "paleosuchus trigonatus" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "Bitis arietans" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 2
+	Query: "Desmognathus marmoratus" ; Times: 1
+	Query: "Agkistrodon" ; Times: 1
+	Query: "Dispholidus typus" ; Times: 2
+	Query: "specificepithet:occidentalis genus:sceloporus stateprovince:&#34;california&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "Centrolenidae" ; Times: 1
+	Query: "order:squamata stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Anolis lemurinus" ; Times: 1
+	Query: "order:SQUAMATA stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "Adenomera" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "genus:Anolis stateprovince:&#34;Florida&#34; hastissue:1" ; Times: 1
+	Query: "genus:Osteocephalus specificepithet:cabrerai" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "Desmognathus monticola" ; Times: 1
+	Query: "order:anura stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "hyla femoralis" ; Times: 1
+	Query: "Anolis biporcatus" ; Times: 1
+	Query: "order:caudata stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "dendroaspis polylepis" ; Times: 1
+	Query: "order:Gymnophiona hastissue:1" ; Times: 4
+	Query: "Nerodia erythrogaster" ; Times: 2
+	Query: "Anolis capito" ; Times: 1
+	Query: "Lepidodactylus lugubris" ; Times: 1
+	Query: "order:Caudata hastissue:1" ; Times: 1
+	Query: "Anolis sericeus" ; Times: 1
+	Query: "Limnonectes vntype:specimen country:&#34;Indonesia&#34; hastissue:1" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "specificepithet:fuscus genus:Chironius country:&#34;Peru&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 2
+	Query: "Stegonotus cucullatus" ; Times: 1
+	Query: "Pachymedusa dacnicolor" ; Times: 2
+	Query: "Chironius" ; Times: 1
+	Query: "specificepithet:angulatus genus:Helicops country:&#34;Peru&#34;" ; Times: 1
+	Query: "order:testudines stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 1
+	Query: "Scaphiopus holbrookii" ; Times: 1
+	Query: "Hylarana" ; Times: 1
+
+
+End of report.
