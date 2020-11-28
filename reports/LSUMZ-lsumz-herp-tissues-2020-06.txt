@@ -1,0 +1,134 @@
+Report for Institution Code LSUMZ, Resource lsumz-herp-tissues
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 540
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Sweden ; Times: 2
+	Country: India ; Times: 2
+	Country: Peru ; Times: 29
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-23 ; Times: 1
+	Date: 2020-06-25 ; Times: 6
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-09 ; Times: 3
+	Date: 2020-06-06 ; Times: 2
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 2
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-02 ; Times: 25
+	Date: 2020-06-10 ; Times: 1
+	Date: 2020-06-01 ; Times: 17
+	Date: 2020-06-15 ; Times: 1
+	Date: 2020-06-26 ; Times: 1
+	Date: 2020-06-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Dibamidae hastissue:1" ; Times: 1
+	Query: "LSUMZ 19384" ; Times: 1
+	Query: "genus:Oxybelis country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "LSUMZ 19383" ; Times: 1
+	Query: "LSUMZ 19402" ; Times: 1
+	Query: "LSUMZ 19407" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cercosaura oshaughnessyi" ; Times: 2
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:sauritus genus:Thamnophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "collectioncode:herpsTissues institutioncode:LSUMZ" ; Times: 3
+	Query: "LSUMZ 19377" ; Times: 1
+	Query: "LSUMZ 19398" ; Times: 1
+	Query: "LSUMZ 19374" ; Times: 1
+	Query: "Arthrosaura reticulata" ; Times: 3
+	Query: "genus:Oxyrhopus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Michigan&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Lycodon institutioncode:LSUMZ" ; Times: 3
+	Query: "country:Ecuador scientificname:Anolis punctatus " ; Times: 1
+	Query: "LSUMZ 19412" ; Times: 1
+	Query: "genus:Afronatrix institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:trimeresurus country:indonesia" ; Times: 1
+	Query: "genus:Stegonotus institutioncode:LSUMZ" ; Times: 2
+	Query: "LSUMZ 19373" ; Times: 1
+	Query: "LSUMZ 19376" ; Times: 1
+	Query: "genus:Afronatrix collectioncode:herpsTissues institutioncode:LSUMZ" ; Times: 1
+	Query: "arthrosaura reticulata" ; Times: 1
+	Query: "genus:Pseustes country:&#34;Peru&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Anolis ortonii " ; Times: 1
+	Query: "LSUMZ 19378" ; Times: 1
+	Query: "LSUMZ 19379" ; Times: 1
+	Query: "Chrysopelea paradisi vntype:specimen" ; Times: 2
+	Query: "LSUMZ 19416" ; Times: 1
+	Query: "lycodon institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Cercosaura eigenmanni" ; Times: 1
+	Query: "boiga trigonata" ; Times: 1
+	Query: "genus:chironius country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Cordylus hastissue:1" ; Times: 1
+	Query: "Prionodactylus eigenmanni" ; Times: 1
+	Query: "LSUMZ 19387" ; Times: 1
+	Query: "LSUMZ 19386" ; Times: 1
+	Query: "LSUMZ 19375" ; Times: 1
+	Query: "genus:Micrurus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Micrurus hemprichii " ; Times: 2
+	Query: "LSUMZ 19382" ; Times: 2
+	Query: "LSUMZ 19381" ; Times: 1
+	Query: "catalognumber:452 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 19385" ; Times: 2
+	Query: "hastissue:1 bothriechis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 474 download events in this period)
+Total number of records downloaded: 764
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 9
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-23 ; Times: 1
+	Date: 2020-06-25 ; Times: 6
+	Date: 2020-06-08 ; Times: 2
+	Date: 2020-06-09 ; Times: 3
+	Date: 2020-06-07 ; Times: 2
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-01 ; Times: 6
+	Date: 2020-06-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Cercosaura oshaughnessyi" ; Times: 1
+	Query: "genus:Helicops country:&#34;Peru&#34;" ; Times: 1
+	Query: "Emoia mivarti" ; Times: 1
+	Query: "Neusticurus ecpleopus" ; Times: 1
+	Query: "Tiliqua nigrolutea" ; Times: 1
+	Query: "genus:chironius country:&#34;Peru&#34;" ; Times: 1
+	Query: "Arthrosaura reticulata" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Prionodactylus argulus" ; Times: 1
+	Query: "genus:Dipsas country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Pseudemys stateprovince:&#34;Louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Liophis country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Pseustes country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+	Query: "Cercosaura eigenmanni" ; Times: 1
+	Query: "Prionodactylus eigenmanni" ; Times: 1
+	Query: "genus:Pseudotriton stateprovince:&#34;Mississippi&#34;" ; Times: 2
+	Query: "Prionodactylus oshaughnessyi" ; Times: 2
+	Query: "Cercosaura argulus" ; Times: 1
+	Query: "specificepithet:atrox country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Oxyrhopus country:&#34;Peru&#34;" ; Times: 1
+
+
+End of report.
