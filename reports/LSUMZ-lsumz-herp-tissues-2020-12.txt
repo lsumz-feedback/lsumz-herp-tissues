@@ -1,0 +1,215 @@
+Report for Institution Code LSUMZ, Resource lsumz-herp-tissues
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 110
+Number of records retrieved in searches: 1591
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 69
+	Country: Colombia ; Times: 7
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Panama ; Times: 2
+	Country: Finland ; Times: 1
+	Country: France ; Times: 12
+	Country: United Kingdom ; Times: 3
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 4
+	Country: Belgium ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-27 ; Times: 3
+	Date: 2020-12-26 ; Times: 7
+	Date: 2020-12-21 ; Times: 1
+	Date: 2020-12-20 ; Times: 3
+	Date: 2020-12-30 ; Times: 3
+	Date: 2020-12-22 ; Times: 6
+	Date: 2020-12-04 ; Times: 12
+	Date: 2020-12-03 ; Times: 11
+	Date: 2020-12-31 ; Times: 4
+	Date: 2020-12-29 ; Times: 13
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-07 ; Times: 15
+	Date: 2020-12-01 ; Times: 5
+	Date: 2020-12-10 ; Times: 8
+	Date: 2020-12-06 ; Times: 3
+	Date: 2020-12-05 ; Times: 2
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-14 ; Times: 6
+	Date: 2020-12-15 ; Times: 4
+	Date: 2020-12-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "17519 cornuta" ; Times: 2
+	Query: "genus:Porthidium stateprovince:&#34;Zacapa&#34; country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "Geoemyda spengleri" ; Times: 1
+	Query: "typhlops reticulatus Amazonas" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "specificepithet:tenebrosus genus:Dicamptodon institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Leptodrymus country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "catalognumber:12880 institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Cnemidophorus stateprovince:&#34;Zacapa&#34; country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "genus:Leptodrymus" ; Times: 1
+	Query: "genus:Tribolonotus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:palearis genus:Ctenosaura stateprovince:&#34;Zacapa&#34; country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "Malaclemys hastissue:1" ; Times: 3
+	Query: "catalognumber:15408 institutioncode:LSUMZ" ; Times: 3
+	Query: "catalognumber:6259 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:7783 institutioncode:LSUMZ" ; Times: 4
+	Query: "specificepithet:maculosus genus:Necturus institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:pseudemys stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "LSUMZ 8289" ; Times: 1
+	Query: "catalognumber:12947 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:12935 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:ensatus genus:Dicamptodon institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:Drymarchon hastissue:1" ; Times: 1
+	Query: "specificepithet:hortulanus genus:Corallus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Hemidactylium stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "specificepithet:flagellum stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "specificepithet:fasciatus genus:Bungarus preparations:tissue hastissue:1" ; Times: 1
+	Query: "genus:notechis family:elapidae institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "17431 cornuta" ; Times: 1
+	Query: "erpeton tentaculatum" ; Times: 1
+	Query: "specificepithet:olympicus genus:Rhyacotriton institutioncode:LSUMZ" ; Times: 2
+	Query: "family:elapidae institutioncode:LSUMZ hastissue:1" ; Times: 6
+	Query: "genus:Graptemys institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Apalone stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:copei genus:Dicamptodon institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:Dicamptodon institutioncode:LSUMZ" ; Times: 1
+	Query: "Cochranella adenocheira" ; Times: 1
+	Query: "catalognumber:12934 institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Pseudoleptodeira stateprovince:&#34;Guerrero&#34; country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "catalognumber:17662 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:lacertina genus:Siren institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:12946 institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:aspidomorphus hastissue:1" ; Times: 1
+	Query: "genus:Trimorphodon country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "family:Elapidae institutioncode:LSUMZ hastissue:1" ; Times: 3
+	Query: "genus:Azemiops hastissue:1" ; Times: 3
+	Query: "LSU 13885" ; Times: 1
+	Query: "catalognumber:5400 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:13688 institutioncode:LSUMZ" ; Times: 5
+	Query: "specificepithet:fuscus genus:Chironius country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "LSUMZ 17429" ; Times: 3
+	Query: "specificepithet:muelleri genus:aspidomorphus hastissue:1" ; Times: 1
+	Query: "catalognumber:12933 institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Louisiana&#34; institutioncode:LSUMZ" ; Times: 4
+	Query: "LSUMZ 20551" ; Times: 1
+	Query: "specificepithet:kezeri genus:Rhyacotriton institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Porthidium class:Reptilia stateprovince:&#34;Zacapa&#34; country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Zacapa&#34; country:&#34;Guatemala&#34;" ; Times: 2
+	Query: "specificepithet:terrapin genus:Malaclemys hastissue:1" ; Times: 2
+	Query: "family:hemiphractidae hastissue:1" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "LSU 5725" ; Times: 1
+	Query: "Pseudoboa neuwiedii" ; Times: 2
+	Query: "Bothriechis schlegelii" ; Times: 4
+	Query: "catalognumber:265 institutioncode:LSUMZ" ; Times: 4
+	Query: "11296" ; Times: 1
+	Query: "genus:drysdalia institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "specificepithet:variegatus genus:Rhyacotriton institutioncode:LSUMZ" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 80 (out of 705 download events in this period)
+Total number of records downloaded: 10648
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 23
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 33
+	Country: Colombia ; Times: 6
+	Country: Spain ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-04 ; Times: 1
+	Date: 2020-12-21 ; Times: 1
+	Date: 2020-12-20 ; Times: 2
+	Date: 2020-12-23 ; Times: 22
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-03 ; Times: 5
+	Date: 2020-12-02 ; Times: 28
+	Date: 2020-12-18 ; Times: 2
+	Date: 2020-12-07 ; Times: 4
+	Date: 2020-12-12 ; Times: 3
+	Date: 2020-12-13 ; Times: 2
+	Date: 2020-12-14 ; Times: 4
+	Date: 2020-12-15 ; Times: 2
+	Date: 2020-12-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Vipera aspis" ; Times: 1
+	Query: "genus:crotalus family:viperidae country:&#34;México&#34; continent:America" ; Times: 1
+	Query: "Anolis pulchellus" ; Times: 1
+	Query: "specificepithet:terrapin genus:Malaclemys hastissue:1" ; Times: 1
+	Query: "Eurycea guttolineata" ; Times: 1
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "bolitoglossa rufescens" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 2
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "ambystoma talpoideum" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 8
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "genus:Desmognathus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "eurycea longicauda" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "eurycea guttolineata" ; Times: 1
+	Query: "Lophognathus temporalis" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "Coronella girondica" ; Times: 1
+	Query: "Anolis krugi" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 2
+	Query: "Malpolon monspessulanus" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Rana temporaria" ; Times: 1
+	Query: "class:Amphibia country:Brazil" ; Times: 3
+	Query: "Pleurodema brachyops" ; Times: 1
+	Query: "Eurycea cirrigera" ; Times: 1
+	Query: "Pelobates cultripes" ; Times: 1
+	Query: "class:Reptilia country:Brazil" ; Times: 2
+	Query: "Lepidodactylus lugubris" ; Times: 1
+	Query: "specificepithet:hortulanus genus:Corallus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Pseudis paradoxa" ; Times: 1
+	Query: "specificepithet:boylii genus:rana" ; Times: 1
+	Query: "Natrix maura" ; Times: 1
+	Query: "calotes versicolor" ; Times: 1
+	Query: "Lialis burtonis" ; Times: 1
+	Query: "Leptodactylus fuscus" ; Times: 1
+	Query: "(Hemidactylium scutatum)" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Anilius" ; Times: 2
+	Query: "Anolis auratus" ; Times: 1
+	Query: "Plethodon Cinereus" ; Times: 1
+	Query: "Xenopeltis unicolor" ; Times: 2
+	Query: "specificepithet:fuscus genus:Chironius country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Carlia fusca" ; Times: 1
+	Query: "Anolis stratulus" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "Anolis evermanni" ; Times: 1
+	Query: "genus:MICRURUS country:&#34;México&#34; continent:America" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "genus:Crotalus family:Viperidae country:&#34;Mexico&#34; continent:America" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 2
+	Query: "Lachesis muta" ; Times: 1
+	Query: "desmognathus quadramaculatus" ; Times: 2
+	Query: "Tiliqua scincoides" ; Times: 1
+	Query: "Cordylus cordylus" ; Times: 1
+	Query: "pseudotriton ruber" ; Times: 1
+	Query: "agama agama" ; Times: 1
+	Query: "kinosternon leucostomum" ; Times: 1
+	Query: "Anolis gundlachi" ; Times: 1
+
+
+End of report.
